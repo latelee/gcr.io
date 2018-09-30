@@ -1,1 +1,5 @@
-[]
+[
+    "kube-keepalived-vip:0.10",
+    "kube-keepalived-vip:0.11",
+    "kube-keepalived-vip:0.2"
+]
