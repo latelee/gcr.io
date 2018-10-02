@@ -1,0 +1,5 @@
+[
+    "kube-dnsmasq-arm64:1.2",
+    "kube-dnsmasq-arm64:1.3",
+    "kube-dnsmasq-arm64:1.4"
+]
