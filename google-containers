@@ -1,8 +1,0 @@
-[
-    "addon-resizer-arm:2.1",
-    "addon-resizer:1.0",
-    "addon-resizer:1.1",
-    "kube-keepalived-vip:0.10",
-    "kube-keepalived-vip:0.11",
-    "kube-keepalived-vip:0.2"
-]
