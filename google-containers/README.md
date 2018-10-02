@@ -1,3 +1,21 @@
+### 2018-10-02 18:11:48 Update:
+
+- [gcr.io/google-containers/kube-scheduler-amd64:v1.8.1](https://hub.docker.com/r/gcrcontainer/kube-scheduler-amd64/tags)
+- [gcr.io/google-containers/custom-metrics-stackdriver-adapter:staging](https://hub.docker.com/r/gcrcontainer/custom-metrics-stackdriver-adapter/tags)
+- [gcr.io/google-containers/custom-metrics-stackdriver-adapter:v0.5.0](https://hub.docker.com/r/gcrcontainer/custom-metrics-stackdriver-adapter/tags)
+- [gcr.io/google-containers/custom-metrics-stackdriver-adapter:v0.6.0](https://hub.docker.com/r/gcrcontainer/custom-metrics-stackdriver-adapter/tags)
+- [gcr.io/google-containers/custom-metrics-stackdriver-adapter:v0.7.0](https://hub.docker.com/r/gcrcontainer/custom-metrics-stackdriver-adapter/tags)
+- [gcr.io/google-containers/kube-scheduler-amd64:v1.8.10](https://hub.docker.com/r/gcrcontainer/kube-scheduler-amd64/tags)
+- [gcr.io/google-containers/kube-scheduler-amd64:v1.8.12](https://hub.docker.com/r/gcrcontainer/kube-scheduler-amd64/tags)
+- [gcr.io/google-containers/cpvpa-amd64:v0.6.0](https://hub.docker.com/r/gcrcontainer/cpvpa-amd64/tags)
+- [gcr.io/google-containers/kube-scheduler-amd64:v1.8.11](https://hub.docker.com/r/gcrcontainer/kube-scheduler-amd64/tags)
+- [gcr.io/google-containers/custom-metrics-stackdriver-adapter:v0.8.0](https://hub.docker.com/r/gcrcontainer/custom-metrics-stackdriver-adapter/tags)
+- [gcr.io/google-containers/kube-scheduler-amd64:v1.8.13](https://hub.docker.com/r/gcrcontainer/kube-scheduler-amd64/tags)
+- [gcr.io/google-containers/kube-scheduler-amd64:v1.8.2](https://hub.docker.com/r/gcrcontainer/kube-scheduler-amd64/tags)
+- [gcr.io/google-containers/kube-scheduler-amd64:v1.8.14](https://hub.docker.com/r/gcrcontainer/kube-scheduler-amd64/tags)
+- [gcr.io/google-containers/kube-scheduler-amd64:v1.8.15](https://hub.docker.com/r/gcrcontainer/kube-scheduler-amd64/tags)
+- [gcr.io/google-containers/debian-hyperkube-base:0.10.2](https://hub.docker.com/r/gcrcontainer/debian-hyperkube-base/tags)
+- [gcr.io/google-containers/custom-metrics-stackdriver-adapter:v0.4.0](https://hub.docker.com/r/gcrcontainer/custom-metrics-stackdriver-adapter/tags)
 ### 2018-10-02 18:03:03 Update:
 
 - [gcr.io/google-containers/addon-resizer](https://hub.docker.com/r/gcrcontainer/addon-resizer/tags)
