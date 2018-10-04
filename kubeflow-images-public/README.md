@@ -1,3 +1,11 @@
+### 2018-10-04 23:54:15 Update(num: 6):
+
+- [gcr.io/kubeflow-images-public/ambassador:0.30.1](https://hub.docker.com/r/gcrcontainer/ambassador/tags)
+- [gcr.io/kubeflow-images-public/centraldashboard:v0.2.1](https://hub.docker.com/r/gcrcontainer/centraldashboard/tags)
+- [gcr.io/kubeflow-images-public/bootstrapper:v0.2.0](https://hub.docker.com/r/gcrcontainer/bootstrapper/tags)
+- [gcr.io/kubeflow-images-public/pytorch-dist-mnist_test:1.0](https://hub.docker.com/r/gcrcontainer/pytorch-dist-mnist_test/tags)
+- [gcr.io/kubeflow-images-public/pytorch-dist-sendrecv-test:1.0](https://hub.docker.com/r/gcrcontainer/pytorch-dist-sendrecv-test/tags)
+- [gcr.io/kubeflow-images-public/kubeflow-demo-cpu:1.0](https://hub.docker.com/r/gcrcontainer/kubeflow-demo-cpu/tags)
 ### 2018-10-04 23:13:56 Update(num: 24):
 
 - [gcr.io/kubeflow-images-public/chainer-operator:v0.3.0](https://hub.docker.com/r/gcrcontainer/chainer-operator/tags)
