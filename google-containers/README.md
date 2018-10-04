@@ -1,3 +1,6 @@
+### 2018-10-04 08:19:22 Update(num: 1):
+
+- [gcr.io/google-containers/kube-cross:v1.11.1-1](https://hub.docker.com/r/gcrcontainer/kube-cross/tags)
 ### 2018-10-03 22:52:33 Update(num: 26):
 
 - [gcr.io/google-containers/hyperkube:v1.7.14](https://hub.docker.com/r/gcrcontainer/hyperkube/tags)
