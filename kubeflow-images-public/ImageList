@@ -28,5 +28,6 @@
     "test-app:082302",
     "test-app:0906",
     "test_app:0906",
-    "tf_operator:v0.2.0"
+    "tf_operator:v0.2.0",
+    "ubuntu:18.04"
 ]

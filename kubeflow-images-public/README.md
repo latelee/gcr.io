@@ -1,3 +1,6 @@
+### 2018-10-06 00:49:09 Update(num: 1):
+
+- [gcr.io/kubeflow-images-public/ubuntu:18.04](https://hub.docker.com/r/gcrcontainer/ubuntu/tags)
 ### 2018-10-04 23:54:15 Update(num: 6):
 
 - [gcr.io/kubeflow-images-public/ambassador:0.30.1](https://hub.docker.com/r/gcrcontainer/ambassador/tags)
