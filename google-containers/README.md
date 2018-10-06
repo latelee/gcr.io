@@ -1,3 +1,17 @@
+### 2018-10-07 00:39:31 Update(num: 12):
+
+- [gcr.io/google-containers/kube-scheduler-amd64:v1.12.1](https://hub.docker.com/r/gcrcontainer/kube-scheduler-amd64/tags)
+- [gcr.io/google-containers/kube-scheduler:v1.12.1](https://hub.docker.com/r/gcrcontainer/kube-scheduler/tags)
+- [gcr.io/google-containers/kube-proxy-amd64:v1.12.1](https://hub.docker.com/r/gcrcontainer/kube-proxy-amd64/tags)
+- [gcr.io/google-containers/kube-proxy:v1.12.1](https://hub.docker.com/r/gcrcontainer/kube-proxy/tags)
+- [gcr.io/google-containers/kube-apiserver-amd64:v1.12.1](https://hub.docker.com/r/gcrcontainer/kube-apiserver-amd64/tags)
+- [gcr.io/google-containers/cloud-controller-manager:v1.12.1](https://hub.docker.com/r/gcrcontainer/cloud-controller-manager/tags)
+- [gcr.io/google-containers/kube-apiserver:v1.12.1](https://hub.docker.com/r/gcrcontainer/kube-apiserver/tags)
+- [gcr.io/google-containers/cloud-controller-manager-amd64:v1.12.1](https://hub.docker.com/r/gcrcontainer/cloud-controller-manager-amd64/tags)
+- [gcr.io/google-containers/kube-controller-manager-amd64:v1.12.1](https://hub.docker.com/r/gcrcontainer/kube-controller-manager-amd64/tags)
+- [gcr.io/google-containers/kube-controller-manager:v1.12.1](https://hub.docker.com/r/gcrcontainer/kube-controller-manager/tags)
+- [gcr.io/google-containers/hyperkube:v1.12.1](https://hub.docker.com/r/gcrcontainer/hyperkube/tags)
+- [gcr.io/google-containers/hyperkube-amd64:v1.12.1](https://hub.docker.com/r/gcrcontainer/hyperkube-amd64/tags)
 ### 2018-10-04 08:19:22 Update(num: 1):
 
 - [gcr.io/google-containers/kube-cross:v1.11.1-1](https://hub.docker.com/r/gcrcontainer/kube-cross/tags)
