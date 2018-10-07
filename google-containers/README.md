@@ -1,3 +1,6 @@
+### 2018-10-08 00:39:00 Update(num: 1):
+
+- [gcr.io/google-containers/netd-amd64:0.1.8](https://hub.docker.com/r/gcrcontainer/netd-amd64/tags)
 ### 2018-10-07 00:39:31 Update(num: 12):
 
 - [gcr.io/google-containers/kube-scheduler-amd64:v1.12.1](https://hub.docker.com/r/gcrcontainer/kube-scheduler-amd64/tags)
