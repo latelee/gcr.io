@@ -1,3 +1,6 @@
+### 2018-10-17 00:57:26 Update(num: 1):
+
+- [gcr.io/kubeflow-images-public/mysql:8.0.3](https://hub.docker.com/r/gcrcontainer/mysql/tags)
 ### 2018-10-07 01:15:25 Update(num: 5):
 
 - [gcr.io/kubeflow-images-public/pytorch-operator:84d07df](https://hub.docker.com/r/gcrcontainer/pytorch-operator/tags)

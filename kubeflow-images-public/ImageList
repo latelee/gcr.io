@@ -19,6 +19,7 @@
     "katib-vizier-core:v0.2.0",
     "kubeflow-demo-cpu:1.0",
     "modeldb-backend:v0.2.0",
+    "mysql:8.0.3",
     "pytorch-dist-mnist_test:1.0",
     "pytorch-dist-sendrecv-test:1.0",
     "pytorch-operator:84d07df",
