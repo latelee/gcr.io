@@ -1,3 +1,6 @@
+### 2018-10-18 01:08:25 Update(num: 1):
+
+- [gcr.io/kubeflow-images-public/mongo:3.4](https://hub.docker.com/r/gcrcontainer/mongo/tags)
 ### 2018-10-17 00:57:26 Update(num: 1):
 
 - [gcr.io/kubeflow-images-public/mysql:8.0.3](https://hub.docker.com/r/gcrcontainer/mysql/tags)
