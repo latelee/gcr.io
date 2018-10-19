@@ -1,3 +1,8 @@
+### 2018-10-20 00:45:19 Update(num: 3):
+
+- [gcr.io/google-containers/coredns:1.2.4](https://hub.docker.com/r/gcrcontainer/coredns/tags)
+- [gcr.io/google-containers/debian-base:0.4.0](https://hub.docker.com/r/gcrcontainer/debian-base/tags)
+- [gcr.io/google-containers/debian-base-amd64:0.4.0](https://hub.docker.com/r/gcrcontainer/debian-base-amd64/tags)
 ### 2018-10-19 00:46:27 Update(num: 2):
 
 - [gcr.io/google-containers/coredns:1.2.3](https://hub.docker.com/r/gcrcontainer/coredns/tags)
