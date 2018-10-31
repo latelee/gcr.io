@@ -1,3 +1,6 @@
+### 2018-11-01 00:52:02 Update(num: 1):
+
+- [gcr.io/google-containers/managed-certificate-controller:v0.1](https://hub.docker.com/r/gcrcontainer/managed-certificate-controller/tags)
 ### 2018-10-27 00:51:37 Update(num: 27):
 
 - [gcr.io/google-containers/kube-scheduler:v1.12.2](https://hub.docker.com/r/gcrcontainer/kube-scheduler/tags)
