@@ -1,3 +1,6 @@
+### 2018-11-03 00:53:29 Update(num: 1):
+
+- [gcr.io/google-containers/netd-amd64:0.1.9](https://hub.docker.com/r/gcrcontainer/netd-amd64/tags)
 ### 2018-11-01 00:52:02 Update(num: 1):
 
 - [gcr.io/google-containers/managed-certificate-controller:v0.1](https://hub.docker.com/r/gcrcontainer/managed-certificate-controller/tags)
