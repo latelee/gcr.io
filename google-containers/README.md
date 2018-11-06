@@ -1,3 +1,8 @@
+### 2018-11-07 00:57:38 Update(num: 3):
+
+- [gcr.io/google-containers/ingress-gce-glbc-amd64:v1.4.0](https://hub.docker.com/r/gcrcontainer/ingress-gce-glbc-amd64/tags)
+- [gcr.io/google-containers/cluster-autoscaler:v1.12.1](https://hub.docker.com/r/gcrcontainer/cluster-autoscaler/tags)
+- [gcr.io/google-containers/kube-cross:v1.11.2-1](https://hub.docker.com/r/gcrcontainer/kube-cross/tags)
 ### 2018-11-03 00:53:29 Update(num: 1):
 
 - [gcr.io/google-containers/netd-amd64:0.1.9](https://hub.docker.com/r/gcrcontainer/netd-amd64/tags)
