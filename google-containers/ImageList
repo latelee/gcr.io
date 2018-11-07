@@ -532,6 +532,7 @@
     "fluentd-elasticsearch:v2.1.0",
     "fluentd-elasticsearch:v2.2.0",
     "fluentd-elasticsearch:v2.3.1",
+    "fluentd-elasticsearch:v2.3.2",
     "fluentd-gcp-scaler:0.1",
     "fluentd-gcp-scaler:0.2",
     "fluentd-gcp-scaler:0.3",
