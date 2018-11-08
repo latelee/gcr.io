@@ -1,3 +1,6 @@
+### 2018-11-09 00:55:18 Update(num: 1):
+
+- [gcr.io/google-containers/coredns:1.2.6](https://hub.docker.com/r/gcrcontainer/coredns/tags)
 ### 2018-11-08 00:55:03 Update(num: 1):
 
 - [gcr.io/google-containers/fluentd-elasticsearch:v2.3.2](https://hub.docker.com/r/gcrcontainer/fluentd-elasticsearch/tags)
