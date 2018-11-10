@@ -1,3 +1,9 @@
+### 2018-11-11 00:56:35 Update(num: 4):
+
+- [gcr.io/google-containers/git-sync:v3.0.0](https://hub.docker.com/r/gcrcontainer/git-sync/tags)
+- [gcr.io/google-containers/vpa-admission-controller:0.3.0](https://hub.docker.com/r/gcrcontainer/vpa-admission-controller/tags)
+- [gcr.io/google-containers/vpa-recommender:0.3.0](https://hub.docker.com/r/gcrcontainer/vpa-recommender/tags)
+- [gcr.io/google-containers/vpa-updater:0.3.0](https://hub.docker.com/r/gcrcontainer/vpa-updater/tags)
 ### 2018-11-10 00:56:02 Update(num: 9):
 
 - [gcr.io/google-containers/addon-resizer:1.8.4](https://hub.docker.com/r/gcrcontainer/addon-resizer/tags)
