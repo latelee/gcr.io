@@ -29,6 +29,7 @@
     "tensor2tensor-github:cpu",
     "tensorflow-1.10.1-notebook-cpu:v0.3.0",
     "tensorflow-1.9.0-notebook-gpu:v0.3.0",
+    "test-app:0806",
     "test-app:081402",
     "test-app:081501",
     "test-app:0823",
