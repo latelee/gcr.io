@@ -1,3 +1,7 @@
+### 2018-11-17 00:58:38 Update(num: 2):
+
+- [gcr.io/google-containers/metadata-proxy:v0.1.11](https://hub.docker.com/r/gcrcontainer/metadata-proxy/tags)
+- [gcr.io/google-containers/gke-mpi-metadata-server:v0.1.0](https://hub.docker.com/r/gcrcontainer/gke-mpi-metadata-server/tags)
 ### 2018-11-15 01:00:07 Update(num: 15):
 
 - [gcr.io/google-containers/kube-aggregator:v1.10.10](https://hub.docker.com/r/gcrcontainer/kube-aggregator/tags)
