@@ -1,3 +1,6 @@
+### 2018-11-28 01:03:27 Update(num: 1):
+
+- [gcr.io/google-containers/git-sync:v3.0.1](https://hub.docker.com/r/gcrcontainer/git-sync/tags)
 ### 2018-11-27 01:07:04 Update(num: 40):
 
 - [gcr.io/google-containers/kube-proxy:v1.11.5](https://hub.docker.com/r/gcrcontainer/kube-proxy/tags)
