@@ -1,3 +1,6 @@
+### 2018-12-01 01:05:54 Update(num: 1):
+
+- [gcr.io/google-containers/gke-mpi-metadata-server:v0.1.1](https://hub.docker.com/r/gcrcontainer/gke-mpi-metadata-server/tags)
 ### 2018-11-30 01:04:59 Update(num: 2):
 
 - [gcr.io/google-containers/node-problem-detector:v0.6.1](https://hub.docker.com/r/gcrcontainer/node-problem-detector/tags)
