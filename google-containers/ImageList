@@ -711,6 +711,7 @@
     "gke-mpi-metadata-server:v0.0.4",
     "gke-mpi-metadata-server:v0.1.0",
     "gke-mpi-metadata-server:v0.1.1",
+    "gke-mpi-metadata-server:v0.1.2",
     "glbc:0.5",
     "glbc:0.5.1",
     "glbc:0.5.2",

@@ -1,3 +1,6 @@
+### 2018-12-06 01:08:02 Update(num: 1):
+
+- [gcr.io/google-containers/gke-mpi-metadata-server:v0.1.2](https://hub.docker.com/r/gcrcontainer/gke-mpi-metadata-server/tags)
 ### 2018-12-05 01:09:30 Update(num: 14):
 
 - [gcr.io/google-containers/kube-scheduler-amd64:v1.13.0](https://hub.docker.com/r/gcrcontainer/kube-scheduler-amd64/tags)
