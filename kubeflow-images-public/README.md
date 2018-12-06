@@ -1,3 +1,14 @@
+### 2018-12-07 01:57:37 Update(num: 9):
+
+- [gcr.io/kubeflow-images-public/centraldashboard:v0.3.4](https://hub.docker.com/r/gcrcontainer/centraldashboard/tags)
+- [gcr.io/kubeflow-images-public/issue-summarization:0.1](https://hub.docker.com/r/gcrcontainer/issue-summarization/tags)
+- [gcr.io/kubeflow-images-public/fairing-base:v0.0.1](https://hub.docker.com/r/gcrcontainer/fairing-base/tags)
+- [gcr.io/kubeflow-images-public/issue-summarization-seldon:20180312](https://hub.docker.com/r/gcrcontainer/issue-summarization-seldon/tags)
+- [gcr.io/kubeflow-images-public/nvidia-inferenceserver:18.05-py3](https://hub.docker.com/r/gcrcontainer/nvidia-inferenceserver/tags)
+- [gcr.io/kubeflow-images-public/fairing:v0.0.1](https://hub.docker.com/r/gcrcontainer/fairing/tags)
+- [gcr.io/kubeflow-images-public/fairing:dev](https://hub.docker.com/r/gcrcontainer/fairing/tags)
+- [gcr.io/kubeflow-images-public/kaggle-notebook:v20180711](https://hub.docker.com/r/gcrcontainer/kaggle-notebook/tags)
+- [gcr.io/kubeflow-images-public/kaggle-notebook:v20180713](https://hub.docker.com/r/gcrcontainer/kaggle-notebook/tags)
 ### 2018-11-15 01:19:13 Update(num: 1):
 
 - [gcr.io/kubeflow-images-public/test-app:0806](https://hub.docker.com/r/gcrcontainer/test-app/tags)
