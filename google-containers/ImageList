@@ -2481,6 +2481,7 @@
     "kubelet-to-gcm:1.2.5",
     "kubelet-to-gcm:1.2.6",
     "kubelet-to-gcm:1.2.7",
+    "kubelet-to-gcm:1.2.8",
     "kubernetes-dashboard-amd64:canary",
     "kubernetes-dashboard-amd64:v0.1.0",
     "kubernetes-dashboard-amd64:v1.0.0",

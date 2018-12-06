@@ -1,3 +1,6 @@
+### 2018-12-07 01:10:18 Update(num: 1):
+
+- [gcr.io/google-containers/kubelet-to-gcm:1.2.8](https://hub.docker.com/r/gcrcontainer/kubelet-to-gcm/tags)
 ### 2018-12-06 01:08:02 Update(num: 1):
 
 - [gcr.io/google-containers/gke-mpi-metadata-server:v0.1.2](https://hub.docker.com/r/gcrcontainer/gke-mpi-metadata-server/tags)
