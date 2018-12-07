@@ -1,3 +1,6 @@
+### 2018-12-08 01:08:32 Update(num: 1):
+
+- [gcr.io/google-containers/cluster-autoscaler:v1.13.1](https://hub.docker.com/r/gcrcontainer/cluster-autoscaler/tags)
 ### 2018-12-07 01:10:18 Update(num: 1):
 
 - [gcr.io/google-containers/kubelet-to-gcm:1.2.8](https://hub.docker.com/r/gcrcontainer/kubelet-to-gcm/tags)
