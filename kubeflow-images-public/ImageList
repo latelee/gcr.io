@@ -26,6 +26,7 @@
     "katib-suggestion-random:v0.2.0",
     "katib-vizier-core:v0.2.0",
     "kubeflow-demo-cpu:1.0",
+    "kubeflow-yelp-demo-cpu:1.0",
     "modeldb-backend:v0.2.0",
     "mongo:3.4",
     "mysql:8.0.3",

@@ -1,3 +1,6 @@
+### 2018-12-14 01:31:12 Update(num: 1):
+
+- [gcr.io/kubeflow-images-public/kubeflow-yelp-demo-cpu:1.0](https://hub.docker.com/r/gcrcontainer/kubeflow-yelp-demo-cpu/tags)
 ### 2018-12-07 01:57:37 Update(num: 9):
 
 - [gcr.io/kubeflow-images-public/centraldashboard:v0.3.4](https://hub.docker.com/r/gcrcontainer/centraldashboard/tags)
