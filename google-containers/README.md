@@ -1,3 +1,7 @@
+### 2018-12-16 01:18:06 Update(num: 2):
+
+- [gcr.io/google-containers/kube-cross:v1.11.3-1](https://hub.docker.com/r/gcrcontainer/kube-cross/tags)
+- [gcr.io/google-containers/kube-cross:v1.10.6-1](https://hub.docker.com/r/gcrcontainer/kube-cross/tags)
 ### 2018-12-14 01:14:32 Update(num: 14):
 
 - [gcr.io/google-containers/kube-proxy:v1.13.1](https://hub.docker.com/r/gcrcontainer/kube-proxy/tags)
