@@ -1,3 +1,6 @@
+### 2018-12-19 01:15:06 Update(num: 1):
+
+- [gcr.io/google-containers/kubernetes-dashboard-amd64:v1.10.1](https://hub.docker.com/r/gcrcontainer/kubernetes-dashboard-amd64/tags)
 ### 2018-12-18 01:17:14 Update(num: 26):
 
 - [gcr.io/google-containers/cloud-controller-manager-amd64:v1.11.6](https://hub.docker.com/r/gcrcontainer/cloud-controller-manager-amd64/tags)

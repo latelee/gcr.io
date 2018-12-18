@@ -2532,6 +2532,7 @@
     "kubernetes-dashboard-amd64:v1.1.0",
     "kubernetes-dashboard-amd64:v1.1.1",
     "kubernetes-dashboard-amd64:v1.10.0",
+    "kubernetes-dashboard-amd64:v1.10.1",
     "kubernetes-dashboard-amd64:v1.4.0",
     "kubernetes-dashboard-amd64:v1.4.1",
     "kubernetes-dashboard-amd64:v1.4.2",
