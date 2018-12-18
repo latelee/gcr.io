@@ -35,6 +35,7 @@
     "pytorch-dist-sendrecv-test:1.0",
     "pytorch-operator:84d07df",
     "pytorch-operator:v0.3.0",
+    "pytorch-operator:v0.4.0",
     "statsd:0.30.1",
     "tensor2tensor-github:cpu",
     "tensorflow-1.10.1-notebook-cpu:v0.3.0",
