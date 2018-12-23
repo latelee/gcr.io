@@ -1,3 +1,6 @@
+### 2018-12-24 01:29:38 Update(num: 1):
+
+- [gcr.io/kubeflow-images-public/centraldashboard:v0.4.0](https://hub.docker.com/r/gcrcontainer/centraldashboard/tags)
 ### 2018-12-19 01:26:42 Update(num: 1):
 
 - [gcr.io/kubeflow-images-public/pytorch-operator:v0.4.0](https://hub.docker.com/r/gcrcontainer/pytorch-operator/tags)
