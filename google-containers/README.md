@@ -1,3 +1,7 @@
+### 2019-01-05 01:22:49 Update(num: 2):
+
+- [gcr.io/google-containers/coredns:1.3.0](https://hub.docker.com/r/gcrcontainer/coredns/tags)
+- [gcr.io/google-containers/cluster-autoscaler:v1.3.5](https://hub.docker.com/r/gcrcontainer/cluster-autoscaler/tags)
 ### 2018-12-20 01:22:48 Update(num: 17):
 
 - [gcr.io/google-containers/kube-scheduler-amd64:v1.10.12](https://hub.docker.com/r/gcrcontainer/kube-scheduler-amd64/tags)
