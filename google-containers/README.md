@@ -1,3 +1,6 @@
+### 2019-01-08 01:25:14 Update(num: 1):
+
+- [gcr.io/google-containers/cluster-autoscaler:v1.2.4](https://hub.docker.com/r/gcrcontainer/cluster-autoscaler/tags)
 ### 2019-01-05 01:22:49 Update(num: 2):
 
 - [gcr.io/google-containers/coredns:1.3.0](https://hub.docker.com/r/gcrcontainer/coredns/tags)
