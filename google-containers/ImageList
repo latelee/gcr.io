@@ -2751,6 +2751,7 @@
     "node-problem-detector:v0.4.1",
     "node-problem-detector:v0.5.0",
     "node-problem-detector:v0.6.1",
+    "node-problem-detector:v0.6.2",
     "node-test-amd64:0.2",
     "node-test-amd64:v0.1",
     "node-test:0.2",

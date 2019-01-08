@@ -1,3 +1,6 @@
+### 2019-01-09 01:32:43 Update(num: 1):
+
+- [gcr.io/google-containers/node-problem-detector:v0.6.2](https://hub.docker.com/r/gcrcontainer/node-problem-detector/tags)
 ### 2019-01-08 01:25:14 Update(num: 1):
 
 - [gcr.io/google-containers/cluster-autoscaler:v1.2.4](https://hub.docker.com/r/gcrcontainer/cluster-autoscaler/tags)
