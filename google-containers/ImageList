@@ -2592,6 +2592,7 @@
     "logs-generator:v1.0.0",
     "managed-certificate-controller:v0.1",
     "managed-certificate-controller:v0.1.1",
+    "managed-certificate-controller:v0.2",
     "metadata-proxy:0.1",
     "metadata-proxy:0.1.1",
     "metadata-proxy:0.1.2",

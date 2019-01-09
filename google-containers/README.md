@@ -1,3 +1,6 @@
+### 2019-01-10 01:28:18 Update(num: 1):
+
+- [gcr.io/google-containers/managed-certificate-controller:v0.2](https://hub.docker.com/r/gcrcontainer/managed-certificate-controller/tags)
 ### 2019-01-09 01:32:43 Update(num: 1):
 
 - [gcr.io/google-containers/node-problem-detector:v0.6.2](https://hub.docker.com/r/gcrcontainer/node-problem-detector/tags)
