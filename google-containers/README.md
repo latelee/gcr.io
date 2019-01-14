@@ -1,3 +1,9 @@
+### 2019-01-15 01:29:19 Update(num: 4):
+
+- [gcr.io/google-containers/kube-state-metrics:v1.5.0](https://hub.docker.com/r/gcrcontainer/kube-state-metrics/tags)
+- [gcr.io/google-containers/kube-state-metrics-amd64:v1.5.0](https://hub.docker.com/r/gcrcontainer/kube-state-metrics-amd64/tags)
+- [gcr.io/google-containers/fluentd-elasticsearch:v2.4.0](https://hub.docker.com/r/gcrcontainer/fluentd-elasticsearch/tags)
+- [gcr.io/google-containers/cluster-autoscaler:v1.12.2](https://hub.docker.com/r/gcrcontainer/cluster-autoscaler/tags)
 ### 2019-01-12 01:28:47 Update(num: 15):
 
 - [gcr.io/google-containers/kube-scheduler-amd64:v1.13.2](https://hub.docker.com/r/gcrcontainer/kube-scheduler-amd64/tags)
