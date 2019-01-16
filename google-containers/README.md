@@ -1,3 +1,6 @@
+### 2019-01-17 01:29:31 Update(num: 1):
+
+- [gcr.io/google-containers/coredns:1.3.1](https://hub.docker.com/r/gcrcontainer/coredns/tags)
 ### 2019-01-15 01:29:19 Update(num: 4):
 
 - [gcr.io/google-containers/kube-state-metrics:v1.5.0](https://hub.docker.com/r/gcrcontainer/kube-state-metrics/tags)

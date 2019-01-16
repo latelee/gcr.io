@@ -283,6 +283,7 @@
     "coredns:1.2.4",
     "coredns:1.2.6",
     "coredns:1.3.0",
+    "coredns:1.3.1",
     "cos-kernel-headers:live",
     "cos-nvidia-driver-install:v0.1",
     "cos-nvidia-driver-install:v0.2",
