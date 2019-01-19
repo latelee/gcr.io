@@ -1129,6 +1129,7 @@
     "ingress-gce-glbc-amd64:v1.3.3",
     "ingress-gce-glbc-amd64:v1.4.0",
     "ingress-gce-glbc-amd64:v1.4.1",
+    "ingress-gce-glbc-amd64:v1.4.2",
     "ip-masq-agent-amd64:v0.4.0",
     "ip-masq-agent-amd64:v1.0.0",
     "ip-masq-agent-amd64:v2.0.0",

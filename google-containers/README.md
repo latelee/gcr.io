@@ -1,3 +1,6 @@
+### 2019-01-20 01:31:22 Update(num: 1):
+
+- [gcr.io/google-containers/ingress-gce-glbc-amd64:v1.4.2](https://hub.docker.com/r/gcrcontainer/ingress-gce-glbc-amd64/tags)
 ### 2019-01-19 01:32:38 Update(num: 12):
 
 - [gcr.io/google-containers/kube-scheduler:v1.12.5](https://hub.docker.com/r/gcrcontainer/kube-scheduler/tags)
