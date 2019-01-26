@@ -1,3 +1,10 @@
+### 2019-01-27 01:37:49 Update(num: 5):
+
+- [gcr.io/google-containers/etcd:3.2.26](https://hub.docker.com/r/gcrcontainer/etcd/tags)
+- [gcr.io/google-containers/etcd-amd64:3.2.26](https://hub.docker.com/r/gcrcontainer/etcd-amd64/tags)
+- [gcr.io/google-containers/git-sync:v3.1.0](https://hub.docker.com/r/gcrcontainer/git-sync/tags)
+- [gcr.io/google-containers/kube-cross:v1.11.5-1](https://hub.docker.com/r/gcrcontainer/kube-cross/tags)
+- [gcr.io/google-containers/kube-cross:v1.10.8-1](https://hub.docker.com/r/gcrcontainer/kube-cross/tags)
 ### 2019-01-26 01:35:12 Update(num: 27):
 
 - [gcr.io/google-containers/kube-scheduler:v1.11.7](https://hub.docker.com/r/gcrcontainer/kube-scheduler/tags)
