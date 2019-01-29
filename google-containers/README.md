@@ -1,3 +1,7 @@
+### 2019-01-30 01:35:01 Update(num: 2):
+
+- [gcr.io/google-containers/netd-amd64:0.2.0](https://hub.docker.com/r/gcrcontainer/netd-amd64/tags)
+- [gcr.io/google-containers/cluster-proportional-autoscaler-amd64:1.4.0](https://hub.docker.com/r/gcrcontainer/cluster-proportional-autoscaler-amd64/tags)
 ### 2019-01-27 01:37:49 Update(num: 5):
 
 - [gcr.io/google-containers/etcd:3.2.26](https://hub.docker.com/r/gcrcontainer/etcd/tags)
