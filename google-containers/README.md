@@ -1,3 +1,8 @@
+### 2019-02-01 01:36:43 Update(num: 3):
+
+- [gcr.io/google-containers/vpa-admission-controller:0.3.1](https://hub.docker.com/r/gcrcontainer/vpa-admission-controller/tags)
+- [gcr.io/google-containers/vpa-recommender:0.3.1](https://hub.docker.com/r/gcrcontainer/vpa-recommender/tags)
+- [gcr.io/google-containers/vpa-updater:0.3.1](https://hub.docker.com/r/gcrcontainer/vpa-updater/tags)
 ### 2019-01-31 01:36:35 Update(num: 7):
 
 - [gcr.io/google-containers/debian-base-amd64:0.4.1](https://hub.docker.com/r/gcrcontainer/debian-base-amd64/tags)
