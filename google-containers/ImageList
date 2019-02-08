@@ -692,6 +692,7 @@
     "gcsweb-amd64:v1.0.4",
     "gcsweb-amd64:v1.0.5",
     "gcsweb-amd64:v1.0.6",
+    "gcsweb:v1.1.0",
     "gen-swagger-docs:v1",
     "gen-swagger-docs:v1.1",
     "gen-swagger-docs:v2",
