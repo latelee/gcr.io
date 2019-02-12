@@ -1,3 +1,6 @@
+### 2019-02-13 01:42:40 Update(num: 1):
+
+- [gcr.io/google-containers/ingress-gce-glbc-amd64:v1.4.3](https://hub.docker.com/r/gcrcontainer/ingress-gce-glbc-amd64/tags)
 ### 2019-02-09 01:40:50 Update(num: 1):
 
 - [gcr.io/google-containers/gcsweb:v1.1.0](https://hub.docker.com/r/gcrcontainer/gcsweb/tags)
