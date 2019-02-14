@@ -1,3 +1,7 @@
+### 2019-02-15 01:44:09 Update(num: 2):
+
+- [gcr.io/google-containers/gke-cloud-kms-plugin:0.2](https://hub.docker.com/r/gcrcontainer/gke-cloud-kms-plugin/tags)
+- [gcr.io/google-containers/gke-cloud-kms-sync:0.1](https://hub.docker.com/r/gcrcontainer/gke-cloud-kms-sync/tags)
 ### 2019-02-14 01:44:40 Update(num: 15):
 
 - [gcr.io/google-containers/managed-certificate-controller:v0.2.2](https://hub.docker.com/r/gcrcontainer/managed-certificate-controller/tags)

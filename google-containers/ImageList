@@ -732,6 +732,8 @@
     "gke-certificates-controller:v1.11.0-r2",
     "gke-certificates-controller:v1.11.0-r3",
     "gke-cloud-kms-plugin:0.1",
+    "gke-cloud-kms-plugin:0.2",
+    "gke-cloud-kms-sync:0.1",
     "gke-launcher:0.1",
     "gke-master-backup:1.0",
     "gke-master-backup:1.1",
