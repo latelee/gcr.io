@@ -1,3 +1,7 @@
+### 2019-02-16 01:45:49 Update(num: 2):
+
+- [gcr.io/google-containers/git-sync:v3.1.1](https://hub.docker.com/r/gcrcontainer/git-sync/tags)
+- [gcr.io/google-containers/cluster-autoscaler:v1.3.7](https://hub.docker.com/r/gcrcontainer/cluster-autoscaler/tags)
 ### 2019-02-15 01:44:09 Update(num: 2):
 
 - [gcr.io/google-containers/gke-cloud-kms-plugin:0.2](https://hub.docker.com/r/gcrcontainer/gke-cloud-kms-plugin/tags)
