@@ -2917,6 +2917,7 @@
     "prometheus-to-sd:v0.3.1",
     "prometheus-to-sd:v0.3.2",
     "prometheus-to-sd:v0.4.1",
+    "prometheus-to-sd:v0.4.2",
     "proxy-to-service:v1",
     "proxy-to-service:v2",
     "python:2.7.11-slim",
