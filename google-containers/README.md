@@ -1,3 +1,8 @@
+### 2019-02-21 01:47:37 Update(num: 3):
+
+- [gcr.io/google-containers/vpa-recommender:0.4.0](https://hub.docker.com/r/gcrcontainer/vpa-recommender/tags)
+- [gcr.io/google-containers/vpa-updater:0.4.0](https://hub.docker.com/r/gcrcontainer/vpa-updater/tags)
+- [gcr.io/google-containers/vpa-admission-controller:0.4.0](https://hub.docker.com/r/gcrcontainer/vpa-admission-controller/tags)
 ### 2019-02-19 01:46:31 Update(num: 1):
 
 - [gcr.io/google-containers/prometheus-to-sd:v0.4.2](https://hub.docker.com/r/gcrcontainer/prometheus-to-sd/tags)
