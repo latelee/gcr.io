@@ -1,3 +1,6 @@
+### 2019-02-22 01:47:53 Update(num: 1):
+
+- [gcr.io/google-containers/custom-metrics-stackdriver-adapter:v0.9.0](https://hub.docker.com/r/gcrcontainer/custom-metrics-stackdriver-adapter/tags)
 ### 2019-02-21 01:47:37 Update(num: 3):
 
 - [gcr.io/google-containers/vpa-recommender:0.4.0](https://hub.docker.com/r/gcrcontainer/vpa-recommender/tags)
