@@ -2748,6 +2748,7 @@
     "managed-certificate-controller:v0.2",
     "managed-certificate-controller:v0.2.1",
     "managed-certificate-controller:v0.2.2",
+    "managed-certificate-controller:v0.3.0",
     "metadata-proxy:0.1",
     "metadata-proxy:0.1.1",
     "metadata-proxy:0.1.2",
