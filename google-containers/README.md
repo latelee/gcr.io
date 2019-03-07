@@ -1,3 +1,6 @@
+### 2019-03-08 01:55:50 Update(num: 1):
+
+- [gcr.io/google-containers/cluster-autoscaler:v1.2.5](https://hub.docker.com/r/gcrcontainer/cluster-autoscaler/tags)
 ### 2019-03-07 01:55:08 Update(num: 1):
 
 - [gcr.io/google-containers/managed-certificate-controller:v0.3.0](https://hub.docker.com/r/gcrcontainer/managed-certificate-controller/tags)
