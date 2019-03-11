@@ -253,6 +253,7 @@
     "cluster-autoscaler:v1.12.3",
     "cluster-autoscaler:v1.13.0",
     "cluster-autoscaler:v1.13.1",
+    "cluster-autoscaler:v1.13.2",
     "cluster-autoscaler:v1.2.0",
     "cluster-autoscaler:v1.2.1",
     "cluster-autoscaler:v1.2.2",
