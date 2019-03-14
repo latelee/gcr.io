@@ -2,6 +2,7 @@
     "ambassador:0.30.1",
     "argoexec:v2.1.1",
     "bootstrapper:v0.2.0",
+    "centraldashboard:dev",
     "centraldashboard:v0.2.1",
     "centraldashboard:v0.3.0",
     "centraldashboard:v0.3.4",
