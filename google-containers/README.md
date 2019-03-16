@@ -1,3 +1,6 @@
+### 2019-03-17 02:02:00 Update(num: 1):
+
+- [gcr.io/google-containers/kube-cross:v1.12.1-1](https://hub.docker.com/r/gcrcontainer/kube-cross/tags)
 ### 2019-03-16 01:59:13 Update(num: 2):
 
 - [gcr.io/google-containers/gke-metadata-server:v0.2.2](https://hub.docker.com/r/gcrcontainer/gke-metadata-server/tags)
