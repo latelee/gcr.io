@@ -1,3 +1,8 @@
+### 2019-03-20 02:02:32 Update(num: 3):
+
+- [gcr.io/google-containers/ingress-gce-glbc-amd64:v1.5.1](https://hub.docker.com/r/gcrcontainer/ingress-gce-glbc-amd64/tags)
+- [gcr.io/google-containers/cluster-autoscaler:v1.14.0](https://hub.docker.com/r/gcrcontainer/cluster-autoscaler/tags)
+- [gcr.io/google-containers/kube-cross:v1.12.1-2](https://hub.docker.com/r/gcrcontainer/kube-cross/tags)
 ### 2019-03-17 02:02:00 Update(num: 1):
 
 - [gcr.io/google-containers/kube-cross:v1.12.1-1](https://hub.docker.com/r/gcrcontainer/kube-cross/tags)
