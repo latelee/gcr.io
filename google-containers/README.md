@@ -1,3 +1,10 @@
+### 2019-03-27 02:03:43 Update(num: 5):
+
+- [gcr.io/google-containers/vpa-admission-controller:0.5.0](https://hub.docker.com/r/gcrcontainer/vpa-admission-controller/tags)
+- [gcr.io/google-containers/debian-base-amd64:v1.0.0](https://hub.docker.com/r/gcrcontainer/debian-base-amd64/tags)
+- [gcr.io/google-containers/debian-base:v1.0.0](https://hub.docker.com/r/gcrcontainer/debian-base/tags)
+- [gcr.io/google-containers/vpa-updater:0.5.0](https://hub.docker.com/r/gcrcontainer/vpa-updater/tags)
+- [gcr.io/google-containers/vpa-recommender:0.5.0](https://hub.docker.com/r/gcrcontainer/vpa-recommender/tags)
 ### 2019-03-26 02:10:38 Update(num: 56):
 
 - [gcr.io/google-containers/kube-scheduler-amd64:v1.14.0](https://hub.docker.com/r/gcrcontainer/kube-scheduler-amd64/tags)
