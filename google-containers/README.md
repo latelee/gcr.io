@@ -1,3 +1,6 @@
+### 2019-03-30 02:04:57 Update(num: 1):
+
+- [gcr.io/google-containers/cluster-proportional-autoscaler-amd64:1.5.0](https://hub.docker.com/r/gcrcontainer/cluster-proportional-autoscaler-amd64/tags)
 ### 2019-03-27 02:03:43 Update(num: 5):
 
 - [gcr.io/google-containers/vpa-admission-controller:0.5.0](https://hub.docker.com/r/gcrcontainer/vpa-admission-controller/tags)
