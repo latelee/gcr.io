@@ -1,3 +1,14 @@
+### 2019-04-04 02:42:29 Update(num: 9):
+
+- [gcr.io/kubeflow-images-public/centraldashboard:v0.5.0](https://hub.docker.com/r/gcrcontainer/centraldashboard/tags)
+- [gcr.io/kubeflow-images-public/jupyter-web-app:v0.5.0](https://hub.docker.com/r/gcrcontainer/jupyter-web-app/tags)
+- [gcr.io/kubeflow-images-public/gatekeeper:v0.5.0](https://hub.docker.com/r/gcrcontainer/gatekeeper/tags)
+- [gcr.io/kubeflow-images-public/fairing-serving-base:v0.1](https://hub.docker.com/r/gcrcontainer/fairing-serving-base/tags)
+- [gcr.io/kubeflow-images-public/kflogin-ui:v0.5.0](https://hub.docker.com/r/gcrcontainer/kflogin-ui/tags)
+- [gcr.io/kubeflow-images-public/kubeflow-yelp-demo-gpu:1.0](https://hub.docker.com/r/gcrcontainer/kubeflow-yelp-demo-gpu/tags)
+- [gcr.io/kubeflow-images-public/kubeflow-demo-gpu:1.0](https://hub.docker.com/r/gcrcontainer/kubeflow-demo-gpu/tags)
+- [gcr.io/kubeflow-images-public/fairing-xgboost:v1](https://hub.docker.com/r/gcrcontainer/fairing-xgboost/tags)
+- [gcr.io/kubeflow-images-public/t2t-yelp-gpu:2](https://hub.docker.com/r/gcrcontainer/t2t-yelp-gpu/tags)
 ### 2019-03-15 02:26:26 Update(num: 1):
 
 - [gcr.io/kubeflow-images-public/centraldashboard:dev](https://hub.docker.com/r/gcrcontainer/centraldashboard/tags)
