@@ -2859,6 +2859,7 @@
     "metrics-server-amd64:v0.2.1",
     "metrics-server-amd64:v0.3.0",
     "metrics-server-amd64:v0.3.1",
+    "metrics-server-amd64:v0.3.2",
     "metrics-server:dev",
     "metrics-server:v0.2.1",
     "mongodb-install:0.1",
