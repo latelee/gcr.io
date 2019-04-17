@@ -1,3 +1,9 @@
+### 2019-04-18 02:15:59 Update(num: 4):
+
+- [gcr.io/google-containers/managed-certificate-controller:v0.3.1](https://hub.docker.com/r/gcrcontainer/managed-certificate-controller/tags)
+- [gcr.io/google-containers/fluentd-gcp-scaler:0.5.2](https://hub.docker.com/r/gcrcontainer/fluentd-gcp-scaler/tags)
+- [gcr.io/google-containers/fluentd-gcp:2.1.1](https://hub.docker.com/r/gcrcontainer/fluentd-gcp/tags)
+- [gcr.io/google-containers/kube-cross:v1.12.4-1](https://hub.docker.com/r/gcrcontainer/kube-cross/tags)
 ### 2019-04-11 02:09:28 Update(num: 1):
 
 - [gcr.io/google-containers/metrics-server-amd64:v0.3.2](https://hub.docker.com/r/gcrcontainer/metrics-server-amd64/tags)
