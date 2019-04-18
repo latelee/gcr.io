@@ -787,6 +787,7 @@
     "gke-metadata-server:v0.2.0",
     "gke-metadata-server:v0.2.1",
     "gke-metadata-server:v0.2.2",
+    "gke-metadata-server:v0.2.3",
     "gke-mpi-api-server:alexcope-dev",
     "gke-mpi-api-server:awly-dev",
     "gke-mpi-api-server:cjcullen-dev",
