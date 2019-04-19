@@ -1,3 +1,8 @@
+### 2019-04-20 02:14:23 Update(num: 3):
+
+- [gcr.io/google-containers/vpa-admission-controller:0.4.1](https://hub.docker.com/r/gcrcontainer/vpa-admission-controller/tags)
+- [gcr.io/google-containers/vpa-updater:0.4.1](https://hub.docker.com/r/gcrcontainer/vpa-updater/tags)
+- [gcr.io/google-containers/vpa-recommender:0.4.1](https://hub.docker.com/r/gcrcontainer/vpa-recommender/tags)
 ### 2019-04-19 02:13:51 Update(num: 1):
 
 - [gcr.io/google-containers/gke-metadata-server:v0.2.3](https://hub.docker.com/r/gcrcontainer/gke-metadata-server/tags)
