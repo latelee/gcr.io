@@ -1,3 +1,9 @@
+### 2019-04-22 02:43:03 Update(num: 4):
+
+- [gcr.io/kubeflow-images-public/jupyter-web-app:cdb3d28](https://hub.docker.com/r/gcrcontainer/jupyter-web-app/tags)
+- [gcr.io/kubeflow-images-public/jupyter-web-app:357e15c](https://hub.docker.com/r/gcrcontainer/jupyter-web-app/tags)
+- [gcr.io/kubeflow-images-public/jupyter-web-app:7e9e457](https://hub.docker.com/r/gcrcontainer/jupyter-web-app/tags)
+- [gcr.io/kubeflow-images-public/jupyter-web-app:557cd12](https://hub.docker.com/r/gcrcontainer/jupyter-web-app/tags)
 ### 2019-04-12 02:27:02 Update(num: 1):
 
 - [gcr.io/kubeflow-images-public/pytorch-operator:v0.5.0](https://hub.docker.com/r/gcrcontainer/pytorch-operator/tags)
