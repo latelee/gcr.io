@@ -1,3 +1,21 @@
+### 2019-04-25 02:18:21 Update(num: 16):
+
+- [gcr.io/google-containers/kube-controller-manager:v1.12.8](https://hub.docker.com/r/gcrcontainer/kube-controller-manager/tags)
+- [gcr.io/google-containers/kube-controller-manager-amd64:v1.12.8](https://hub.docker.com/r/gcrcontainer/kube-controller-manager-amd64/tags)
+- [gcr.io/google-containers/cloud-controller-manager:v1.12.8](https://hub.docker.com/r/gcrcontainer/cloud-controller-manager/tags)
+- [gcr.io/google-containers/cloud-controller-manager-amd64:v1.12.8](https://hub.docker.com/r/gcrcontainer/cloud-controller-manager-amd64/tags)
+- [gcr.io/google-containers/kube-proxy:v1.12.8](https://hub.docker.com/r/gcrcontainer/kube-proxy/tags)
+- [gcr.io/google-containers/kube-proxy-amd64:v1.12.8](https://hub.docker.com/r/gcrcontainer/kube-proxy-amd64/tags)
+- [gcr.io/google-containers/cluster-autoscaler:v1.13.3](https://hub.docker.com/r/gcrcontainer/cluster-autoscaler/tags)
+- [gcr.io/google-containers/kube-scheduler:v1.12.8](https://hub.docker.com/r/gcrcontainer/kube-scheduler/tags)
+- [gcr.io/google-containers/cluster-autoscaler:v1.12.4](https://hub.docker.com/r/gcrcontainer/cluster-autoscaler/tags)
+- [gcr.io/google-containers/kube-scheduler-amd64:v1.12.8](https://hub.docker.com/r/gcrcontainer/kube-scheduler-amd64/tags)
+- [gcr.io/google-containers/cluster-autoscaler:v1.3.9](https://hub.docker.com/r/gcrcontainer/cluster-autoscaler/tags)
+- [gcr.io/google-containers/cluster-autoscaler:v1.14.1](https://hub.docker.com/r/gcrcontainer/cluster-autoscaler/tags)
+- [gcr.io/google-containers/kube-apiserver:v1.12.8](https://hub.docker.com/r/gcrcontainer/kube-apiserver/tags)
+- [gcr.io/google-containers/kube-apiserver-amd64:v1.12.8](https://hub.docker.com/r/gcrcontainer/kube-apiserver-amd64/tags)
+- [gcr.io/google-containers/hyperkube:v1.12.8](https://hub.docker.com/r/gcrcontainer/hyperkube/tags)
+- [gcr.io/google-containers/hyperkube-amd64:v1.12.8](https://hub.docker.com/r/gcrcontainer/hyperkube-amd64/tags)
 ### 2019-04-20 02:14:23 Update(num: 3):
 
 - [gcr.io/google-containers/vpa-admission-controller:0.4.1](https://hub.docker.com/r/gcrcontainer/vpa-admission-controller/tags)
