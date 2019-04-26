@@ -1,3 +1,8 @@
+### 2019-04-27 02:17:25 Update(num: 3):
+
+- [gcr.io/google-containers/vpa-updater:0.5.1](https://hub.docker.com/r/gcrcontainer/vpa-updater/tags)
+- [gcr.io/google-containers/vpa-admission-controller:0.5.1](https://hub.docker.com/r/gcrcontainer/vpa-admission-controller/tags)
+- [gcr.io/google-containers/vpa-recommender:0.5.1](https://hub.docker.com/r/gcrcontainer/vpa-recommender/tags)
 ### 2019-04-26 02:17:45 Update(num: 11):
 
 - [gcr.io/google-containers/k8s-dns-sidecar-amd64:1.15.2](https://hub.docker.com/r/gcrcontainer/k8s-dns-sidecar-amd64/tags)
