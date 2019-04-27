@@ -1,3 +1,6 @@
+### 2019-04-28 02:17:17 Update(num: 1):
+
+- [gcr.io/google-containers/gke-metadata-server:v0.2.4](https://hub.docker.com/r/gcrcontainer/gke-metadata-server/tags)
 ### 2019-04-27 02:17:25 Update(num: 3):
 
 - [gcr.io/google-containers/vpa-updater:0.5.1](https://hub.docker.com/r/gcrcontainer/vpa-updater/tags)
