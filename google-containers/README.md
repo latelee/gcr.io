@@ -1,3 +1,6 @@
+### 2019-05-01 02:17:46 Update(num: 1):
+
+- [gcr.io/google-containers/coredns:1.5.0](https://hub.docker.com/r/gcrcontainer/coredns/tags)
 ### 2019-04-28 02:17:17 Update(num: 1):
 
 - [gcr.io/google-containers/gke-metadata-server:v0.2.4](https://hub.docker.com/r/gcrcontainer/gke-metadata-server/tags)
