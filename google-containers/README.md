@@ -1,3 +1,8 @@
+### 2019-05-04 02:20:37 Update(num: 3):
+
+- [gcr.io/google-containers/metadata-proxy:v0.1.12](https://hub.docker.com/r/gcrcontainer/metadata-proxy/tags)
+- [gcr.io/google-containers/metrics-server:v0.3.3](https://hub.docker.com/r/gcrcontainer/metrics-server/tags)
+- [gcr.io/google-containers/metrics-server-amd64:v0.3.3](https://hub.docker.com/r/gcrcontainer/metrics-server-amd64/tags)
 ### 2019-05-03 02:20:40 Update(num: 17):
 
 - [gcr.io/google-containers/kube-scheduler:v1.11.10](https://hub.docker.com/r/gcrcontainer/kube-scheduler/tags)
