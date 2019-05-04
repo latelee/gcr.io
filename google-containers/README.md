@@ -1,3 +1,7 @@
+### 2019-05-05 02:19:27 Update(num: 2):
+
+- [gcr.io/google-containers/gke-metadata-server:v0.2.5](https://hub.docker.com/r/gcrcontainer/gke-metadata-server/tags)
+- [gcr.io/google-containers/ingress-gce-glbc-amd64:v1.5.2](https://hub.docker.com/r/gcrcontainer/ingress-gce-glbc-amd64/tags)
 ### 2019-05-04 02:20:37 Update(num: 3):
 
 - [gcr.io/google-containers/metadata-proxy:v0.1.12](https://hub.docker.com/r/gcrcontainer/metadata-proxy/tags)
