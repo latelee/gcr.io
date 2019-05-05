@@ -1,3 +1,7 @@
+### 2019-05-06 02:51:22 Update(num: 2):
+
+- [gcr.io/kubeflow-images-public/jupyter-web-app:b653133a](https://hub.docker.com/r/gcrcontainer/jupyter-web-app/tags)
+- [gcr.io/kubeflow-images-public/jupyter-web-app:3d9c21e](https://hub.docker.com/r/gcrcontainer/jupyter-web-app/tags)
 ### 2019-05-04 02:38:34 Update(num: 1):
 
 - [gcr.io/kubeflow-images-public/jupyter-web-app:e608182](https://hub.docker.com/r/gcrcontainer/jupyter-web-app/tags)
