@@ -1,3 +1,8 @@
+### 2019-05-08 02:21:39 Update(num: 3):
+
+- [gcr.io/google-containers/kube-state-metrics:v1.6.0](https://hub.docker.com/r/gcrcontainer/kube-state-metrics/tags)
+- [gcr.io/google-containers/kube-state-metrics-amd64:v1.6.0](https://hub.docker.com/r/gcrcontainer/kube-state-metrics-amd64/tags)
+- [gcr.io/google-containers/managed-certificate-controller:v0.3.2](https://hub.docker.com/r/gcrcontainer/managed-certificate-controller/tags)
 ### 2019-05-05 02:19:27 Update(num: 2):
 
 - [gcr.io/google-containers/gke-metadata-server:v0.2.5](https://hub.docker.com/r/gcrcontainer/gke-metadata-server/tags)
