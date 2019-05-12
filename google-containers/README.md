@@ -1,3 +1,6 @@
+### 2019-05-13 02:23:23 Update(num: 1):
+
+- [gcr.io/google-containers/event-exporter:v0.2.5](https://hub.docker.com/r/gcrcontainer/event-exporter/tags)
 ### 2019-05-10 02:22:26 Update(num: 4):
 
 - [gcr.io/google-containers/etcd-version-monitor:0.1.3](https://hub.docker.com/r/gcrcontainer/etcd-version-monitor/tags)
