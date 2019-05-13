@@ -2859,6 +2859,7 @@
     "kubelet-to-gcm:1.2",
     "kubelet-to-gcm:1.2.1",
     "kubelet-to-gcm:1.2.10",
+    "kubelet-to-gcm:1.2.11",
     "kubelet-to-gcm:1.2.2",
     "kubelet-to-gcm:1.2.3",
     "kubelet-to-gcm:1.2.4",
