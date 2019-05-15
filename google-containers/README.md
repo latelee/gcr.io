@@ -1,3 +1,7 @@
+### 2019-05-16 02:25:25 Update(num: 2):
+
+- [gcr.io/google-containers/ip-masq-agent-amd64:v2.4.1](https://hub.docker.com/r/gcrcontainer/ip-masq-agent-amd64/tags)
+- [gcr.io/google-containers/ip-masq-agent:v2.4.1](https://hub.docker.com/r/gcrcontainer/ip-masq-agent/tags)
 ### 2019-05-15 02:24:44 Update(num: 4):
 
 - [gcr.io/google-containers/cpvpa-amd64:v0.7.1](https://hub.docker.com/r/gcrcontainer/cpvpa-amd64/tags)
