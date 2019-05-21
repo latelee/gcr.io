@@ -1,3 +1,13 @@
+### 2019-05-22 03:04:14 Update(num: 8):
+
+- [gcr.io/kubeflow-images-public/jupyter-web-app:eebcb11](https://hub.docker.com/r/gcrcontainer/jupyter-web-app/tags)
+- [gcr.io/kubeflow-images-public/jupyter-web-app:cee39db](https://hub.docker.com/r/gcrcontainer/jupyter-web-app/tags)
+- [gcr.io/kubeflow-images-public/fairing-base:v20190510](https://hub.docker.com/r/gcrcontainer/fairing-base/tags)
+- [gcr.io/kubeflow-images-public/fairing-base:v20190516](https://hub.docker.com/r/gcrcontainer/fairing-base/tags)
+- [gcr.io/kubeflow-images-public/jupyter-web-app:625e24e](https://hub.docker.com/r/gcrcontainer/jupyter-web-app/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v0.4.0](https://hub.docker.com/r/gcrcontainer/tensorflow-1.10.1-notebook-cpu/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v0.5.0](https://hub.docker.com/r/gcrcontainer/tensorflow-1.10.1-notebook-cpu/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v0.3.1](https://hub.docker.com/r/gcrcontainer/tensorflow-1.10.1-notebook-cpu/tags)
 ### 2019-05-11 03:11:29 Update(num: 8):
 
 - [gcr.io/kubeflow-images-public/centraldashboard:pr3197](https://hub.docker.com/r/gcrcontainer/centraldashboard/tags)
