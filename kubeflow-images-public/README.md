@@ -1,3 +1,11 @@
+### 2019-05-25 03:14:39 Update(num: 6):
+
+- [gcr.io/kubeflow-images-public/jupyter-web-app:be1b766](https://hub.docker.com/r/gcrcontainer/jupyter-web-app/tags)
+- [gcr.io/kubeflow-images-public/centraldashboard:chart-4](https://hub.docker.com/r/gcrcontainer/centraldashboard/tags)
+- [gcr.io/kubeflow-images-public/centraldashboard:ux-tweaks](https://hub.docker.com/r/gcrcontainer/centraldashboard/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-1.12.0-notebook-cpu:v0.4.0](https://hub.docker.com/r/gcrcontainer/tensorflow-1.12.0-notebook-cpu/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-1.12.0-notebook-cpu:v0.5.0](https://hub.docker.com/r/gcrcontainer/tensorflow-1.12.0-notebook-cpu/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-1.13.1-notebook-cpu:v0.5.0](https://hub.docker.com/r/gcrcontainer/tensorflow-1.13.1-notebook-cpu/tags)
 ### 2019-05-22 03:04:14 Update(num: 8):
 
 - [gcr.io/kubeflow-images-public/jupyter-web-app:eebcb11](https://hub.docker.com/r/gcrcontainer/jupyter-web-app/tags)
