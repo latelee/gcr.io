@@ -1,3 +1,6 @@
+### 2019-05-28 02:31:39 Update(num: 1):
+
+- [gcr.io/google-containers/addon-resizer:1.8.5](https://hub.docker.com/r/gcrcontainer/addon-resizer/tags)
 ### 2019-05-25 02:30:57 Update(num: 1):
 
 - [gcr.io/google-containers/toolbox:20190523-00](https://hub.docker.com/r/gcrcontainer/toolbox/tags)
