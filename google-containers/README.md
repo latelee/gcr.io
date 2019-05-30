@@ -1,3 +1,8 @@
+### 2019-05-31 02:33:57 Update(num: 3):
+
+- [gcr.io/google-containers/proxy-server:v0.0.1](https://hub.docker.com/r/gcrcontainer/proxy-server/tags)
+- [gcr.io/google-containers/proxy-agent:v0.0.1](https://hub.docker.com/r/gcrcontainer/proxy-agent/tags)
+- [gcr.io/google-containers/managed-certificate-controller:v0.3.3](https://hub.docker.com/r/gcrcontainer/managed-certificate-controller/tags)
 ### 2019-05-29 02:33:24 Update(num: 12):
 
 - [gcr.io/google-containers/kube-scheduler-amd64:v1.12.9](https://hub.docker.com/r/gcrcontainer/kube-scheduler-amd64/tags)
