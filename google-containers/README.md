@@ -1,3 +1,13 @@
+### 2019-06-01 02:34:17 Update(num: 8):
+
+- [gcr.io/google-containers/k8s-dns-sidecar-amd64:1.15.3](https://hub.docker.com/r/gcrcontainer/k8s-dns-sidecar-amd64/tags)
+- [gcr.io/google-containers/k8s-dns-sidecar:1.15.3](https://hub.docker.com/r/gcrcontainer/k8s-dns-sidecar/tags)
+- [gcr.io/google-containers/k8s-dns-kube-dns-amd64:1.15.3](https://hub.docker.com/r/gcrcontainer/k8s-dns-kube-dns-amd64/tags)
+- [gcr.io/google-containers/k8s-dns-kube-dns:1.15.3](https://hub.docker.com/r/gcrcontainer/k8s-dns-kube-dns/tags)
+- [gcr.io/google-containers/k8s-dns-dnsmasq-nanny:1.15.3](https://hub.docker.com/r/gcrcontainer/k8s-dns-dnsmasq-nanny/tags)
+- [gcr.io/google-containers/k8s-dns-node-cache:1.15.3](https://hub.docker.com/r/gcrcontainer/k8s-dns-node-cache/tags)
+- [gcr.io/google-containers/k8s-dns-dnsmasq-nanny-amd64:1.15.3](https://hub.docker.com/r/gcrcontainer/k8s-dns-dnsmasq-nanny-amd64/tags)
+- [gcr.io/google-containers/k8s-dns-node-cache-amd64:1.15.3](https://hub.docker.com/r/gcrcontainer/k8s-dns-node-cache-amd64/tags)
 ### 2019-05-31 02:33:57 Update(num: 3):
 
 - [gcr.io/google-containers/proxy-server:v0.0.1](https://hub.docker.com/r/gcrcontainer/proxy-server/tags)
