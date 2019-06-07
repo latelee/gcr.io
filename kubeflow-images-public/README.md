@@ -1,3 +1,6 @@
+### 2019-06-08 02:53:50 Update(num: 1):
+
+- [gcr.io/kubeflow-images-public/pytorch-operator:v0.5.1](https://hub.docker.com/r/gcrcontainer/pytorch-operator/tags)
 ### 2019-06-07 03:18:22 Update(num: 9):
 
 - [gcr.io/kubeflow-images-public/test-app:0829](https://hub.docker.com/r/gcrcontainer/test-app/tags)
