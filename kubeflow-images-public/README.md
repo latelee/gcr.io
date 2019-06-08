@@ -1,3 +1,6 @@
+### 2019-06-09 02:57:49 Update(num: 1):
+
+- [gcr.io/kubeflow-images-public/jupyter-web-app:f6aa1dc](https://hub.docker.com/r/gcrcontainer/jupyter-web-app/tags)
 ### 2019-06-08 02:53:50 Update(num: 1):
 
 - [gcr.io/kubeflow-images-public/pytorch-operator:v0.5.1](https://hub.docker.com/r/gcrcontainer/pytorch-operator/tags)
