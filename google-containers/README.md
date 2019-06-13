@@ -1,3 +1,13 @@
+### 2019-06-14 02:39:10 Update(num: 8):
+
+- [gcr.io/google-containers/k8s-dns-kube-dns:1.15.4](https://hub.docker.com/r/gcrcontainer/k8s-dns-kube-dns/tags)
+- [gcr.io/google-containers/k8s-dns-kube-dns-amd64:1.15.4](https://hub.docker.com/r/gcrcontainer/k8s-dns-kube-dns-amd64/tags)
+- [gcr.io/google-containers/k8s-dns-dnsmasq-nanny-amd64:1.15.4](https://hub.docker.com/r/gcrcontainer/k8s-dns-dnsmasq-nanny-amd64/tags)
+- [gcr.io/google-containers/k8s-dns-dnsmasq-nanny:1.15.4](https://hub.docker.com/r/gcrcontainer/k8s-dns-dnsmasq-nanny/tags)
+- [gcr.io/google-containers/k8s-dns-node-cache-amd64:1.15.4](https://hub.docker.com/r/gcrcontainer/k8s-dns-node-cache-amd64/tags)
+- [gcr.io/google-containers/k8s-dns-node-cache:1.15.4](https://hub.docker.com/r/gcrcontainer/k8s-dns-node-cache/tags)
+- [gcr.io/google-containers/k8s-dns-sidecar-amd64:1.15.4](https://hub.docker.com/r/gcrcontainer/k8s-dns-sidecar-amd64/tags)
+- [gcr.io/google-containers/k8s-dns-sidecar:1.15.4](https://hub.docker.com/r/gcrcontainer/k8s-dns-sidecar/tags)
 ### 2019-06-13 02:38:35 Update(num: 1):
 
 - [gcr.io/google-containers/managed-certificate-controller:v0.3.4](https://hub.docker.com/r/gcrcontainer/managed-certificate-controller/tags)
