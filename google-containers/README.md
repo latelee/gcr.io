@@ -1,3 +1,6 @@
+### 2019-06-18 02:41:00 Update(num: 1):
+
+- [gcr.io/google-containers/ingress-gce-404-server-with-metrics-amd64:v1.6.0](https://hub.docker.com/r/gcrcontainer/ingress-gce-404-server-with-metrics-amd64/tags)
 ### 2019-06-16 02:42:59 Update(num: 1):
 
 - [gcr.io/google-containers/ingress-gce-glbc-amd64:v1.6.0](https://hub.docker.com/r/gcrcontainer/ingress-gce-glbc-amd64/tags)
