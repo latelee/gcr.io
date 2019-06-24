@@ -1,3 +1,9 @@
+### 2019-06-25 03:13:36 Update(num: 4):
+
+- [gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v0.2.1](https://hub.docker.com/r/gcrcontainer/tensorflow-1.6.0-notebook-cpu/tags)
+- [gcr.io/kubeflow-images-public/metadata:v0.1.4](https://hub.docker.com/r/gcrcontainer/metadata/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v0.3.0](https://hub.docker.com/r/gcrcontainer/tensorflow-1.6.0-notebook-cpu/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v0.4.0](https://hub.docker.com/r/gcrcontainer/tensorflow-1.6.0-notebook-cpu/tags)
 ### 2019-06-22 03:07:44 Update(num: 1):
 
 - [gcr.io/kubeflow-images-public/jupyter-web-app:f8d85ad](https://hub.docker.com/r/gcrcontainer/jupyter-web-app/tags)
