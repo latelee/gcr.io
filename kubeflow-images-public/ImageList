@@ -68,6 +68,8 @@
     "kubeflow-yelp-demo-gpu:1.0",
     "metadata-frontend:v0.0.1",
     "metadata-frontend:v0.1.6",
+    "metadata-frontend:v0.1.7",
+    "metadata-frontend:v0.1.8",
     "metadata:v0.1.0",
     "metadata:v0.1.1",
     "metadata:v0.1.2",
