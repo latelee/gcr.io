@@ -1,3 +1,6 @@
+### 2019-07-04 03:10:24 Update(num: 1):
+
+- [gcr.io/kubeflow-images-public/metadata-frontend:v0.1.9](https://hub.docker.com/r/gcrcontainer/metadata-frontend/tags)
 ### 2019-07-02 03:10:22 Update(num: 2):
 
 - [gcr.io/kubeflow-images-public/metadata-frontend:v0.1.8](https://hub.docker.com/r/gcrcontainer/metadata-frontend/tags)
