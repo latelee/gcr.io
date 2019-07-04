@@ -1,3 +1,6 @@
+### 2019-07-05 02:52:34 Update(num: 1):
+
+- [gcr.io/google-containers/netd-amd64:0.2.1](https://hub.docker.com/r/gcrcontainer/netd-amd64/tags)
 ### 2019-06-20 02:45:36 Update(num: 16):
 
 - [gcr.io/google-containers/cloud-controller-manager:v1.15.0](https://hub.docker.com/r/gcrcontainer/cloud-controller-manager/tags)
