@@ -897,6 +897,7 @@
     "heapster-amd64:v1.5.2",
     "heapster-amd64:v1.5.3",
     "heapster-amd64:v1.5.4",
+    "heapster-amd64:v1.7.0",
     "heapster-grafana-amd64:v4.0.2",
     "heapster-grafana-amd64:v4.2.0",
     "heapster-grafana-amd64:v4.4.1",

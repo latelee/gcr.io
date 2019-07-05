@@ -1,3 +1,6 @@
+### 2019-07-06 02:53:05 Update(num: 1):
+
+- [gcr.io/google-containers/heapster-amd64:v1.7.0](https://hub.docker.com/r/gcrcontainer/heapster-amd64/tags)
 ### 2019-07-05 02:52:34 Update(num: 1):
 
 - [gcr.io/google-containers/netd-amd64:0.2.1](https://hub.docker.com/r/gcrcontainer/netd-amd64/tags)
