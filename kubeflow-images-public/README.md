@@ -1,3 +1,14 @@
+### 2019-07-07 03:42:44 Update(num: 9):
+
+- [gcr.io/kubeflow-images-public/jupyter-web-app:6f790f8](https://hub.docker.com/r/gcrcontainer/jupyter-web-app/tags)
+- [gcr.io/kubeflow-images-public/pytorch-dist-mnist_test:v1.0](https://hub.docker.com/r/gcrcontainer/pytorch-dist-mnist_test/tags)
+- [gcr.io/kubeflow-images-public/pytorch-dist-mnist-test:v1.0](https://hub.docker.com/r/gcrcontainer/pytorch-dist-mnist-test/tags)
+- [gcr.io/kubeflow-images-public/pytorch-dist-mnist-test:1.0](https://hub.docker.com/r/gcrcontainer/pytorch-dist-mnist-test/tags)
+- [gcr.io/kubeflow-images-public/pytorch-dist-sendrecv-test:v1.0](https://hub.docker.com/r/gcrcontainer/pytorch-dist-sendrecv-test/tags)
+- [gcr.io/kubeflow-images-public/metadata:v0.1.7](https://hub.docker.com/r/gcrcontainer/metadata/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-1.12.0-notebook-gpu:v0.4.0](https://hub.docker.com/r/gcrcontainer/tensorflow-1.12.0-notebook-gpu/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-1.12.0-notebook-gpu:v0.5.0](https://hub.docker.com/r/gcrcontainer/tensorflow-1.12.0-notebook-gpu/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-gpu:v0.3.1](https://hub.docker.com/r/gcrcontainer/tensorflow-1.6.0-notebook-gpu/tags)
 ### 2019-07-04 03:10:24 Update(num: 1):
 
 - [gcr.io/kubeflow-images-public/metadata-frontend:v0.1.9](https://hub.docker.com/r/gcrcontainer/metadata-frontend/tags)
