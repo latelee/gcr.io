@@ -1,3 +1,6 @@
+### 2019-07-11 02:54:55 Update(num: 1):
+
+- [gcr.io/google-containers/custom-metrics-stackdriver-adapter:v0.10.0](https://hub.docker.com/r/gcrcontainer/custom-metrics-stackdriver-adapter/tags)
 ### 2019-07-09 02:58:07 Update(num: 40):
 
 - [gcr.io/google-containers/kube-proxy-amd64:v1.12.10](https://hub.docker.com/r/gcrcontainer/kube-proxy-amd64/tags)
