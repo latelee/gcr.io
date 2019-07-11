@@ -2252,6 +2252,7 @@
     "kube-cross:v1.12.4-1",
     "kube-cross:v1.12.5-1",
     "kube-cross:v1.12.6-1",
+    "kube-cross:v1.12.7-1",
     "kube-cross:v1.4.2-1",
     "kube-cross:v1.6.0-1",
     "kube-cross:v1.6.0-2",

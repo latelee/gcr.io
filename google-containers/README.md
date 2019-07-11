@@ -1,3 +1,6 @@
+### 2019-07-12 02:57:52 Update(num: 1):
+
+- [gcr.io/google-containers/kube-cross:v1.12.7-1](https://hub.docker.com/r/gcrcontainer/kube-cross/tags)
 ### 2019-07-11 02:54:55 Update(num: 1):
 
 - [gcr.io/google-containers/custom-metrics-stackdriver-adapter:v0.10.0](https://hub.docker.com/r/gcrcontainer/custom-metrics-stackdriver-adapter/tags)
