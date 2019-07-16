@@ -1,3 +1,9 @@
+### 2019-07-17 02:57:35 Update(num: 4):
+
+- [gcr.io/google-containers/proxy-server:v0.0.2](https://hub.docker.com/r/gcrcontainer/proxy-server/tags)
+- [gcr.io/google-containers/proxy-agent:v0.0.3](https://hub.docker.com/r/gcrcontainer/proxy-agent/tags)
+- [gcr.io/google-containers/proxy-agent:v0.0.2](https://hub.docker.com/r/gcrcontainer/proxy-agent/tags)
+- [gcr.io/google-containers/proxy-server:v0.0.3](https://hub.docker.com/r/gcrcontainer/proxy-server/tags)
 ### 2019-07-12 02:57:52 Update(num: 1):
 
 - [gcr.io/google-containers/kube-cross:v1.12.7-1](https://hub.docker.com/r/gcrcontainer/kube-cross/tags)
