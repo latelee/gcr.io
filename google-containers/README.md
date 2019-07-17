@@ -1,3 +1,6 @@
+### 2019-07-18 02:58:36 Update(num: 1):
+
+- [gcr.io/google-containers/addon-resizer:2.3](https://hub.docker.com/r/gcrcontainer/addon-resizer/tags)
 ### 2019-07-17 02:57:35 Update(num: 4):
 
 - [gcr.io/google-containers/proxy-server:v0.0.2](https://hub.docker.com/r/gcrcontainer/proxy-server/tags)

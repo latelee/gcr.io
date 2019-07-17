@@ -16,6 +16,7 @@
     "addon-resizer:1.8.5",
     "addon-resizer:2.0",
     "addon-resizer:2.1",
+    "addon-resizer:2.3",
     "alpine-iptables-amd64:v6",
     "alpine-with-bash:1.0",
     "apparmor-loader:0.1",
