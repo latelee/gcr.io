@@ -1,3 +1,21 @@
+### 2019-07-19 02:59:55 Update(num: 16):
+
+- [gcr.io/google-containers/kube-state-metrics:v1.7.0](https://hub.docker.com/r/gcrcontainer/kube-state-metrics/tags)
+- [gcr.io/google-containers/kube-state-metrics-amd64:v1.7.0](https://hub.docker.com/r/gcrcontainer/kube-state-metrics-amd64/tags)
+- [gcr.io/google-containers/kube-proxy-amd64:v1.15.1](https://hub.docker.com/r/gcrcontainer/kube-proxy-amd64/tags)
+- [gcr.io/google-containers/kube-proxy:v1.15.1](https://hub.docker.com/r/gcrcontainer/kube-proxy/tags)
+- [gcr.io/google-containers/kube-controller-manager:v1.15.1](https://hub.docker.com/r/gcrcontainer/kube-controller-manager/tags)
+- [gcr.io/google-containers/cloud-controller-manager:v1.15.1](https://hub.docker.com/r/gcrcontainer/cloud-controller-manager/tags)
+- [gcr.io/google-containers/cloud-controller-manager-amd64:v1.15.1](https://hub.docker.com/r/gcrcontainer/cloud-controller-manager-amd64/tags)
+- [gcr.io/google-containers/kube-scheduler:v1.15.1](https://hub.docker.com/r/gcrcontainer/kube-scheduler/tags)
+- [gcr.io/google-containers/kube-controller-manager-amd64:v1.15.1](https://hub.docker.com/r/gcrcontainer/kube-controller-manager-amd64/tags)
+- [gcr.io/google-containers/kube-scheduler-amd64:v1.15.1](https://hub.docker.com/r/gcrcontainer/kube-scheduler-amd64/tags)
+- [gcr.io/google-containers/kube-apiserver:v1.15.1](https://hub.docker.com/r/gcrcontainer/kube-apiserver/tags)
+- [gcr.io/google-containers/kube-apiserver-amd64:v1.15.1](https://hub.docker.com/r/gcrcontainer/kube-apiserver-amd64/tags)
+- [gcr.io/google-containers/conformance:v1.15.1](https://hub.docker.com/r/gcrcontainer/conformance/tags)
+- [gcr.io/google-containers/conformance-amd64:v1.15.1](https://hub.docker.com/r/gcrcontainer/conformance-amd64/tags)
+- [gcr.io/google-containers/hyperkube-amd64:v1.15.1](https://hub.docker.com/r/gcrcontainer/hyperkube-amd64/tags)
+- [gcr.io/google-containers/hyperkube:v1.15.1](https://hub.docker.com/r/gcrcontainer/hyperkube/tags)
 ### 2019-07-18 02:58:36 Update(num: 1):
 
 - [gcr.io/google-containers/addon-resizer:2.3](https://hub.docker.com/r/gcrcontainer/addon-resizer/tags)
