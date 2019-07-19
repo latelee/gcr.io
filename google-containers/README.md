@@ -1,3 +1,9 @@
+### 2019-07-20 02:59:16 Update(num: 4):
+
+- [gcr.io/google-containers/cluster-autoscaler:v1.13.6](https://hub.docker.com/r/gcrcontainer/cluster-autoscaler/tags)
+- [gcr.io/google-containers/cluster-autoscaler:v1.14.4](https://hub.docker.com/r/gcrcontainer/cluster-autoscaler/tags)
+- [gcr.io/google-containers/cluster-autoscaler:v1.12.7](https://hub.docker.com/r/gcrcontainer/cluster-autoscaler/tags)
+- [gcr.io/google-containers/cluster-autoscaler:v1.15.1](https://hub.docker.com/r/gcrcontainer/cluster-autoscaler/tags)
 ### 2019-07-19 02:59:55 Update(num: 16):
 
 - [gcr.io/google-containers/kube-state-metrics:v1.7.0](https://hub.docker.com/r/gcrcontainer/kube-state-metrics/tags)
