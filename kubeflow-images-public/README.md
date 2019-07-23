@@ -1,3 +1,6 @@
+### 2019-07-24 03:18:30 Update(num: 1):
+
+- [gcr.io/kubeflow-images-public/centraldashboard:v0.6.0](https://hub.docker.com/r/gcrcontainer/centraldashboard/tags)
 ### 2019-07-17 03:17:03 Update(num: 1):
 
 - [gcr.io/kubeflow-images-public/jupyter-web-app:e8a8a6f](https://hub.docker.com/r/gcrcontainer/jupyter-web-app/tags)
