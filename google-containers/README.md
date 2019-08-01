@@ -1,3 +1,7 @@
+### 2019-08-02 03:05:24 Update(num: 2):
+
+- [gcr.io/google-containers/kube-addon-manager:v9.0.2](https://hub.docker.com/r/gcrcontainer/kube-addon-manager/tags)
+- [gcr.io/google-containers/kube-addon-manager-amd64:v9.0.2](https://hub.docker.com/r/gcrcontainer/kube-addon-manager-amd64/tags)
 ### 2019-07-28 03:03:30 Update(num: 2):
 
 - [gcr.io/google-containers/node-problem-detector:v0.7.0](https://hub.docker.com/r/gcrcontainer/node-problem-detector/tags)
