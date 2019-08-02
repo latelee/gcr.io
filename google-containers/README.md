@@ -1,3 +1,6 @@
+### 2019-08-03 03:05:58 Update(num: 1):
+
+- [gcr.io/google-containers/event-exporter:v0.3.0](https://hub.docker.com/r/gcrcontainer/event-exporter/tags)
 ### 2019-08-02 03:05:24 Update(num: 2):
 
 - [gcr.io/google-containers/kube-addon-manager:v9.0.2](https://hub.docker.com/r/gcrcontainer/kube-addon-manager/tags)

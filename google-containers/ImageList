@@ -629,6 +629,7 @@
     "event-exporter:v0.2.3",
     "event-exporter:v0.2.4",
     "event-exporter:v0.2.5",
+    "event-exporter:v0.3.0",
     "example-dns-backend:v1",
     "example-dns-frontend:v1",
     "example-guestbook-php-redis:v2",
