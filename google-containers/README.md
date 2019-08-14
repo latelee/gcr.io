@@ -1,3 +1,8 @@
+### 2019-08-15 03:13:52 Update(num: 3):
+
+- [gcr.io/google-containers/cpvpa-amd64:v0.8.1](https://hub.docker.com/r/gcrcontainer/cpvpa-amd64/tags)
+- [gcr.io/google-containers/node-problem-detector:v0.6.6](https://hub.docker.com/r/gcrcontainer/node-problem-detector/tags)
+- [gcr.io/google-containers/kube-cross:v1.12.8-1](https://hub.docker.com/r/gcrcontainer/kube-cross/tags)
 ### 2019-08-10 03:09:43 Update(num: 4):
 
 - [gcr.io/google-containers/prometheus-to-sd:v0.7.1](https://hub.docker.com/r/gcrcontainer/prometheus-to-sd/tags)
