@@ -1,3 +1,7 @@
+### 2019-08-15 03:34:42 Update(num: 2):
+
+- [gcr.io/kubeflow-images-public/jupyter-web-app:9419d4d](https://hub.docker.com/r/gcrcontainer/jupyter-web-app/tags)
+- [gcr.io/kubeflow-images-public/pytorch-operator:v0.6.0](https://hub.docker.com/r/gcrcontainer/pytorch-operator/tags)
 ### 2019-07-24 03:18:30 Update(num: 1):
 
 - [gcr.io/kubeflow-images-public/centraldashboard:v0.6.0](https://hub.docker.com/r/gcrcontainer/centraldashboard/tags)
