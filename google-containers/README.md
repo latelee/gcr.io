@@ -1,3 +1,8 @@
+### 2019-08-18 03:14:29 Update(num: 3):
+
+- [gcr.io/google-containers/cluster-proportional-autoscaler-amd64:1.7.0](https://hub.docker.com/r/gcrcontainer/cluster-proportional-autoscaler-amd64/tags)
+- [gcr.io/google-containers/gke-metadata-server:v0.2.8](https://hub.docker.com/r/gcrcontainer/gke-metadata-server/tags)
+- [gcr.io/google-containers/kube-cross:v1.11.13-1](https://hub.docker.com/r/gcrcontainer/kube-cross/tags)
 ### 2019-08-17 03:14:02 Update(num: 2):
 
 - [gcr.io/google-containers/gke-metadata-server:v0.2.7](https://hub.docker.com/r/gcrcontainer/gke-metadata-server/tags)
