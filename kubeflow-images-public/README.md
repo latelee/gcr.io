@@ -1,3 +1,10 @@
+### 2019-08-24 03:49:13 Update(num: 5):
+
+- [gcr.io/kubeflow-images-public/jupyter-web-app:9419d4d7](https://hub.docker.com/r/gcrcontainer/jupyter-web-app/tags)
+- [gcr.io/kubeflow-images-public/jupyter-web-app:940f14e](https://hub.docker.com/r/gcrcontainer/jupyter-web-app/tags)
+- [gcr.io/kubeflow-images-public/jupyter-web-app:74b6ab2](https://hub.docker.com/r/gcrcontainer/jupyter-web-app/tags)
+- [gcr.io/kubeflow-images-public/jupyter-web-app:5c4fc0b](https://hub.docker.com/r/gcrcontainer/jupyter-web-app/tags)
+- [gcr.io/kubeflow-images-public/metadata:v0.1.8](https://hub.docker.com/r/gcrcontainer/metadata/tags)
 ### 2019-08-15 03:34:42 Update(num: 2):
 
 - [gcr.io/kubeflow-images-public/jupyter-web-app:9419d4d](https://hub.docker.com/r/gcrcontainer/jupyter-web-app/tags)
