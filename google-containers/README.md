@@ -1,3 +1,6 @@
+### 2019-08-28 03:18:36 Update(num: 1):
+
+- [gcr.io/google-containers/cluster-proportional-autoscaler-amd64:1.7.1](https://hub.docker.com/r/gcrcontainer/cluster-proportional-autoscaler-amd64/tags)
 ### 2019-08-23 03:15:27 Update(num: 9):
 
 - [gcr.io/google-containers/k8s-dns-node-cache-amd64:1.15.5](https://hub.docker.com/r/gcrcontainer/k8s-dns-node-cache-amd64/tags)
