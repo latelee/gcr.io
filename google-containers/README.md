@@ -1,3 +1,6 @@
+### 2019-08-30 03:20:30 Update(num: 1):
+
+- [gcr.io/google-containers/coredns:1.6.2](https://hub.docker.com/r/gcrcontainer/coredns/tags)
 ### 2019-08-29 03:19:33 Update(num: 1):
 
 - [gcr.io/google-containers/node-problem-detector:v0.7.1](https://hub.docker.com/r/gcrcontainer/node-problem-detector/tags)
