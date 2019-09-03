@@ -1,3 +1,7 @@
+### 2019-09-04 03:23:27 Update(num: 2):
+
+- [gcr.io/google-containers/ip-masq-agent:v2.5.0](https://hub.docker.com/r/gcrcontainer/ip-masq-agent/tags)
+- [gcr.io/google-containers/ip-masq-agent-amd64:v2.5.0](https://hub.docker.com/r/gcrcontainer/ip-masq-agent-amd64/tags)
 ### 2019-08-30 03:20:30 Update(num: 1):
 
 - [gcr.io/google-containers/coredns:1.6.2](https://hub.docker.com/r/gcrcontainer/coredns/tags)
