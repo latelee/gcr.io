@@ -1,3 +1,7 @@
+### 2019-09-06 03:25:11 Update(num: 2):
+
+- [gcr.io/google-containers/etcd:3.3.15](https://hub.docker.com/r/gcrcontainer/etcd/tags)
+- [gcr.io/google-containers/etcd-amd64:3.3.15](https://hub.docker.com/r/gcrcontainer/etcd-amd64/tags)
 ### 2019-09-05 03:24:53 Update(num: 7):
 
 - [gcr.io/google-containers/metrics-server:v0.3.4](https://hub.docker.com/r/gcrcontainer/metrics-server/tags)
