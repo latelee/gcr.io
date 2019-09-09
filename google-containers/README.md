@@ -1,3 +1,8 @@
+### 2019-09-10 03:27:37 Update(num: 3):
+
+- [gcr.io/google-containers/prometheus-to-sd:v0.7.2](https://hub.docker.com/r/gcrcontainer/prometheus-to-sd/tags)
+- [gcr.io/google-containers/cluster-autoscaler:v1.16.0](https://hub.docker.com/r/gcrcontainer/cluster-autoscaler/tags)
+- [gcr.io/google-containers/ingress-gce-glbc-amd64:v1.7.0](https://hub.docker.com/r/gcrcontainer/ingress-gce-glbc-amd64/tags)
 ### 2019-09-06 03:25:11 Update(num: 2):
 
 - [gcr.io/google-containers/etcd:3.3.15](https://hub.docker.com/r/gcrcontainer/etcd/tags)
