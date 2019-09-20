@@ -1,3 +1,7 @@
+### 2019-09-21 03:32:11 Update(num: 2):
+
+- [gcr.io/google-containers/metrics-server-amd64:v0.3.5](https://hub.docker.com/r/gcrcontainer/metrics-server-amd64/tags)
+- [gcr.io/google-containers/metrics-server:v0.3.5](https://hub.docker.com/r/gcrcontainer/metrics-server/tags)
 ### 2019-09-19 03:37:06 Update(num: 58):
 
 - [gcr.io/google-containers/kube-scheduler-amd64:v1.14.7](https://hub.docker.com/r/gcrcontainer/kube-scheduler-amd64/tags)
