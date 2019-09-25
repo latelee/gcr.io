@@ -1,3 +1,6 @@
+### 2019-09-26 03:36:06 Update(num: 1):
+
+- [gcr.io/google-containers/event-exporter:v0.3.1](https://hub.docker.com/r/gcrcontainer/event-exporter/tags)
 ### 2019-09-24 03:34:39 Update(num: 1):
 
 - [gcr.io/google-containers/cluster-autoscaler:v1.16.1](https://hub.docker.com/r/gcrcontainer/cluster-autoscaler/tags)
