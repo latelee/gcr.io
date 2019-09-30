@@ -912,6 +912,7 @@
     "gke-metadata-server:v0.2.0",
     "gke-metadata-server:v0.2.1",
     "gke-metadata-server:v0.2.10",
+    "gke-metadata-server:v0.2.11",
     "gke-metadata-server:v0.2.2",
     "gke-metadata-server:v0.2.3",
     "gke-metadata-server:v0.2.4",
