@@ -1,3 +1,13 @@
+### 2019-10-11 03:43:07 Update(num: 8):
+
+- [gcr.io/google-containers/k8s-dns-kube-dns-amd64:1.15.7](https://hub.docker.com/r/gcrcontainer/k8s-dns-kube-dns-amd64/tags)
+- [gcr.io/google-containers/k8s-dns-kube-dns:1.15.7](https://hub.docker.com/r/gcrcontainer/k8s-dns-kube-dns/tags)
+- [gcr.io/google-containers/k8s-dns-node-cache:1.15.7](https://hub.docker.com/r/gcrcontainer/k8s-dns-node-cache/tags)
+- [gcr.io/google-containers/k8s-dns-sidecar-amd64:1.15.7](https://hub.docker.com/r/gcrcontainer/k8s-dns-sidecar-amd64/tags)
+- [gcr.io/google-containers/k8s-dns-node-cache-amd64:1.15.7](https://hub.docker.com/r/gcrcontainer/k8s-dns-node-cache-amd64/tags)
+- [gcr.io/google-containers/k8s-dns-dnsmasq-nanny-amd64:1.15.7](https://hub.docker.com/r/gcrcontainer/k8s-dns-dnsmasq-nanny-amd64/tags)
+- [gcr.io/google-containers/k8s-dns-sidecar:1.15.7](https://hub.docker.com/r/gcrcontainer/k8s-dns-sidecar/tags)
+- [gcr.io/google-containers/k8s-dns-dnsmasq-nanny:1.15.7](https://hub.docker.com/r/gcrcontainer/k8s-dns-dnsmasq-nanny/tags)
 ### 2019-10-05 03:39:49 Update(num: 1):
 
 - [gcr.io/google-containers/prometheus-to-sd:v0.8.0](https://hub.docker.com/r/gcrcontainer/prometheus-to-sd/tags)
