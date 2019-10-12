@@ -1,3 +1,15 @@
+### 2019-10-13 03:44:15 Update(num: 10):
+
+- [gcr.io/google-containers/etcd-empty-dir-cleanup:3.4.2.0](https://hub.docker.com/r/gcrcontainer/etcd-empty-dir-cleanup/tags)
+- [gcr.io/google-containers/etcd-empty-dir-cleanup:3.3.17.0](https://hub.docker.com/r/gcrcontainer/etcd-empty-dir-cleanup/tags)
+- [gcr.io/google-containers/etcd:3.3.17-0](https://hub.docker.com/r/gcrcontainer/etcd/tags)
+- [gcr.io/google-containers/etcd-amd64:3.3.17-0](https://hub.docker.com/r/gcrcontainer/etcd-amd64/tags)
+- [gcr.io/google-containers/etcd-amd64:3.3.17](https://hub.docker.com/r/gcrcontainer/etcd-amd64/tags)
+- [gcr.io/google-containers/etcd:3.3.17](https://hub.docker.com/r/gcrcontainer/etcd/tags)
+- [gcr.io/google-containers/etcd:3.4.2](https://hub.docker.com/r/gcrcontainer/etcd/tags)
+- [gcr.io/google-containers/etcd:3.4.2-0](https://hub.docker.com/r/gcrcontainer/etcd/tags)
+- [gcr.io/google-containers/etcd-amd64:3.4.2](https://hub.docker.com/r/gcrcontainer/etcd-amd64/tags)
+- [gcr.io/google-containers/etcd-amd64:3.4.2-0](https://hub.docker.com/r/gcrcontainer/etcd-amd64/tags)
 ### 2019-10-11 03:43:07 Update(num: 8):
 
 - [gcr.io/google-containers/k8s-dns-kube-dns-amd64:1.15.7](https://hub.docker.com/r/gcrcontainer/k8s-dns-kube-dns-amd64/tags)
