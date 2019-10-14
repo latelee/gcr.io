@@ -1,3 +1,7 @@
+### 2019-10-15 03:43:50 Update(num: 2):
+
+- [gcr.io/google-containers/metrics-server:v0.3.6](https://hub.docker.com/r/gcrcontainer/metrics-server/tags)
+- [gcr.io/google-containers/metrics-server-amd64:v0.3.6](https://hub.docker.com/r/gcrcontainer/metrics-server-amd64/tags)
 ### 2019-10-13 03:44:15 Update(num: 10):
 
 - [gcr.io/google-containers/etcd-empty-dir-cleanup:3.4.2.0](https://hub.docker.com/r/gcrcontainer/etcd-empty-dir-cleanup/tags)
