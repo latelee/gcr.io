@@ -50,6 +50,7 @@
     "cadvisor:v0.31.0",
     "cadvisor:v0.32.0",
     "cadvisor:v0.33.0",
+    "cadvisor:v0.34.0",
     "cassandra-e2e-test:0.0",
     "cassandra:v2",
     "cassandra:v3",

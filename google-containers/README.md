@@ -1,3 +1,6 @@
+### 2019-10-23 03:47:50 Update(num: 1):
+
+- [gcr.io/google-containers/cadvisor:v0.34.0](https://hub.docker.com/r/gcrcontainer/cadvisor/tags)
 ### 2019-10-19 03:48:26 Update(num: 3):
 
 - [gcr.io/google-containers/ingress-gce-glbc-amd64:v1.7.1](https://hub.docker.com/r/gcrcontainer/ingress-gce-glbc-amd64/tags)
