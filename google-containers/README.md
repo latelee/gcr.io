@@ -1,3 +1,8 @@
+### 2019-10-24 03:48:18 Update(num: 3):
+
+- [gcr.io/google-containers/prometheus-to-sd:v0.8.1](https://hub.docker.com/r/gcrcontainer/prometheus-to-sd/tags)
+- [gcr.io/google-containers/prometheus-to-sd:v0.7.2-gke.1](https://hub.docker.com/r/gcrcontainer/prometheus-to-sd/tags)
+- [gcr.io/google-containers/prometheus-to-sd:v0.8.0-gke.1](https://hub.docker.com/r/gcrcontainer/prometheus-to-sd/tags)
 ### 2019-10-23 03:47:50 Update(num: 1):
 
 - [gcr.io/google-containers/cadvisor:v0.34.0](https://hub.docker.com/r/gcrcontainer/cadvisor/tags)
