@@ -1,3 +1,6 @@
+### 2019-10-25 03:50:50 Update(num: 1):
+
+- [gcr.io/google-containers/kube-cross:v1.13.3-1](https://hub.docker.com/r/gcrcontainer/kube-cross/tags)
 ### 2019-10-24 03:48:18 Update(num: 3):
 
 - [gcr.io/google-containers/prometheus-to-sd:v0.8.1](https://hub.docker.com/r/gcrcontainer/prometheus-to-sd/tags)
