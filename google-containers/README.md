@@ -1,3 +1,6 @@
+### 2019-10-31 03:51:18 Update(num: 1):
+
+- [gcr.io/google-containers/ingress-gce-glbc-amd64:v1.7.2](https://hub.docker.com/r/gcrcontainer/ingress-gce-glbc-amd64/tags)
 ### 2019-10-30 03:51:10 Update(num: 6):
 
 - [gcr.io/google-containers/etcd-empty-dir-cleanup:3.4.3.0](https://hub.docker.com/r/gcrcontainer/etcd-empty-dir-cleanup/tags)
