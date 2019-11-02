@@ -1,3 +1,7 @@
+### 2019-11-03 03:53:06 Update(num: 2):
+
+- [gcr.io/google-containers/debian-base:v2.0.0](https://hub.docker.com/r/gcrcontainer/debian-base/tags)
+- [gcr.io/google-containers/debian-base-amd64:v2.0.0](https://hub.docker.com/r/gcrcontainer/debian-base-amd64/tags)
 ### 2019-11-01 03:52:06 Update(num: 1):
 
 - [gcr.io/google-containers/node-problem-detector:v0.8.0](https://hub.docker.com/r/gcrcontainer/node-problem-detector/tags)
