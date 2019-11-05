@@ -1,3 +1,7 @@
+### 2019-11-06 03:57:35 Update(num: 2):
+
+- [gcr.io/google-containers/gke-metadata-server:v0.2.13](https://hub.docker.com/r/gcrcontainer/gke-metadata-server/tags)
+- [gcr.io/google-containers/kube-cross:v1.13.4-1](https://hub.docker.com/r/gcrcontainer/kube-cross/tags)
 ### 2019-11-05 03:54:50 Update(num: 3):
 
 - [gcr.io/google-containers/debian-iptables-amd64:v12.0.0](https://hub.docker.com/r/gcrcontainer/debian-iptables-amd64/tags)
