@@ -1,3 +1,13 @@
+### 2019-11-22 04:02:15 Update(num: 8):
+
+- [gcr.io/google-containers/k8s-dns-kube-dns-amd64:1.15.8](https://hub.docker.com/r/gcrcontainer/k8s-dns-kube-dns-amd64/tags)
+- [gcr.io/google-containers/k8s-dns-kube-dns:1.15.8](https://hub.docker.com/r/gcrcontainer/k8s-dns-kube-dns/tags)
+- [gcr.io/google-containers/k8s-dns-sidecar:1.15.8](https://hub.docker.com/r/gcrcontainer/k8s-dns-sidecar/tags)
+- [gcr.io/google-containers/k8s-dns-sidecar-amd64:1.15.8](https://hub.docker.com/r/gcrcontainer/k8s-dns-sidecar-amd64/tags)
+- [gcr.io/google-containers/k8s-dns-dnsmasq-nanny:1.15.8](https://hub.docker.com/r/gcrcontainer/k8s-dns-dnsmasq-nanny/tags)
+- [gcr.io/google-containers/k8s-dns-dnsmasq-nanny-amd64:1.15.8](https://hub.docker.com/r/gcrcontainer/k8s-dns-dnsmasq-nanny-amd64/tags)
+- [gcr.io/google-containers/k8s-dns-node-cache-amd64:1.15.8](https://hub.docker.com/r/gcrcontainer/k8s-dns-node-cache-amd64/tags)
+- [gcr.io/google-containers/k8s-dns-node-cache:1.15.8](https://hub.docker.com/r/gcrcontainer/k8s-dns-node-cache/tags)
 ### 2019-11-15 03:58:32 Update(num: 2):
 
 - [gcr.io/google-containers/debian-iptables:v12.0.1](https://hub.docker.com/r/gcrcontainer/debian-iptables/tags)
