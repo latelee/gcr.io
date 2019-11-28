@@ -1,3 +1,8 @@
+### 2019-11-29 04:04:52 Update(num: 3):
+
+- [gcr.io/google-containers/cluster-autoscaler:v1.14.7](https://hub.docker.com/r/gcrcontainer/cluster-autoscaler/tags)
+- [gcr.io/google-containers/cluster-autoscaler:v1.16.3](https://hub.docker.com/r/gcrcontainer/cluster-autoscaler/tags)
+- [gcr.io/google-containers/cluster-autoscaler:v1.15.4](https://hub.docker.com/r/gcrcontainer/cluster-autoscaler/tags)
 ### 2019-11-22 04:02:15 Update(num: 8):
 
 - [gcr.io/google-containers/k8s-dns-kube-dns-amd64:1.15.8](https://hub.docker.com/r/gcrcontainer/k8s-dns-kube-dns-amd64/tags)
