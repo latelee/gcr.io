@@ -1,3 +1,7 @@
+### 2019-12-03 04:07:09 Update(num: 2):
+
+- [gcr.io/google-containers/git-sync:v3.1.3](https://hub.docker.com/r/gcrcontainer/git-sync/tags)
+- [gcr.io/google-containers/addon-resizer:1.8.7](https://hub.docker.com/r/gcrcontainer/addon-resizer/tags)
 ### 2019-11-30 04:04:52 Update(num: 1):
 
 - [gcr.io/google-containers/cluster-autoscaler:v1.17.0](https://hub.docker.com/r/gcrcontainer/cluster-autoscaler/tags)
