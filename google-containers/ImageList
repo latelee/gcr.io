@@ -333,6 +333,7 @@
     "cluster-autoscaler:v1.13.6",
     "cluster-autoscaler:v1.13.7",
     "cluster-autoscaler:v1.13.8",
+    "cluster-autoscaler:v1.13.9",
     "cluster-autoscaler:v1.14.0",
     "cluster-autoscaler:v1.14.1",
     "cluster-autoscaler:v1.14.2",
