@@ -1,3 +1,6 @@
+### 2019-12-08 04:09:02 Update(num: 1):
+
+- [gcr.io/google-containers/ingress-gce-glbc-amd64:v1.8.0](https://hub.docker.com/r/gcrcontainer/ingress-gce-glbc-amd64/tags)
 ### 2019-12-07 04:08:34 Update(num: 1):
 
 - [gcr.io/google-containers/cluster-autoscaler:v1.13.9](https://hub.docker.com/r/gcrcontainer/cluster-autoscaler/tags)
