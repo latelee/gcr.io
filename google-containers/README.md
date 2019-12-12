@@ -1,3 +1,6 @@
+### 2019-12-13 04:12:44 Update(num: 1):
+
+- [gcr.io/google-containers/netd-amd64:v0.2.3](https://hub.docker.com/r/gcrcontainer/netd-amd64/tags)
 ### 2019-12-12 04:15:15 Update(num: 40):
 
 - [gcr.io/google-containers/kube-proxy:v1.16.4](https://hub.docker.com/r/gcrcontainer/kube-proxy/tags)
