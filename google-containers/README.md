@@ -1,3 +1,9 @@
+### 2019-12-14 04:13:48 Update(num: 4):
+
+- [gcr.io/google-containers/kube-state-metrics:v1.8.0](https://hub.docker.com/r/gcrcontainer/kube-state-metrics/tags)
+- [gcr.io/google-containers/kube-state-metrics-amd64:v1.8.0](https://hub.docker.com/r/gcrcontainer/kube-state-metrics-amd64/tags)
+- [gcr.io/google-containers/coredns:1.6.6](https://hub.docker.com/r/gcrcontainer/coredns/tags)
+- [gcr.io/google-containers/cadvisor:v0.35.0](https://hub.docker.com/r/gcrcontainer/cadvisor/tags)
 ### 2019-12-13 04:12:44 Update(num: 1):
 
 - [gcr.io/google-containers/netd-amd64:v0.2.3](https://hub.docker.com/r/gcrcontainer/netd-amd64/tags)
