@@ -1,3 +1,6 @@
+### 2019-12-18 04:15:07 Update(num: 1):
+
+- [gcr.io/google-containers/toolbox:20191217-00](https://hub.docker.com/r/gcrcontainer/toolbox/tags)
 ### 2019-12-14 04:13:48 Update(num: 4):
 
 - [gcr.io/google-containers/kube-state-metrics:v1.8.0](https://hub.docker.com/r/gcrcontainer/kube-state-metrics/tags)
