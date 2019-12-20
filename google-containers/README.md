@@ -1,3 +1,8 @@
+### 2019-12-21 04:16:23 Update(num: 3):
+
+- [gcr.io/google-containers/kube-state-metrics-amd64:v1.9.0](https://hub.docker.com/r/gcrcontainer/kube-state-metrics-amd64/tags)
+- [gcr.io/google-containers/kube-state-metrics:v1.9.0](https://hub.docker.com/r/gcrcontainer/kube-state-metrics/tags)
+- [gcr.io/google-containers/prometheus-to-sd:v0.9.0](https://hub.docker.com/r/gcrcontainer/prometheus-to-sd/tags)
 ### 2019-12-20 04:16:49 Update(num: 1):
 
 - [gcr.io/google-containers/toolbox:20191218-00](https://hub.docker.com/r/gcrcontainer/toolbox/tags)
