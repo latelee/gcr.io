@@ -1,3 +1,15 @@
+### 2019-12-30 05:06:04 Update(num: 10):
+
+- [gcr.io/kubeflow-images-public/pytorch-operator:v0.7.0](https://hub.docker.com/r/gcrcontainer/pytorch-operator/tags)
+- [gcr.io/kubeflow-images-public/spartakus-amd64:v1.1.0](https://hub.docker.com/r/gcrcontainer/spartakus-amd64/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-1.14.0-notebook-cpu:v0.7.0](https://hub.docker.com/r/gcrcontainer/tensorflow-1.14.0-notebook-cpu/tags)
+- [gcr.io/kubeflow-images-public/metadata:v0.1.9](https://hub.docker.com/r/gcrcontainer/metadata/tags)
+- [gcr.io/kubeflow-images-public/metadata:v0.1.10](https://hub.docker.com/r/gcrcontainer/metadata/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-1.9.0-notebook-cpu:v0.3.1](https://hub.docker.com/r/gcrcontainer/tensorflow-1.9.0-notebook-cpu/tags)
+- [gcr.io/kubeflow-images-public/metadata:v0.1.11](https://hub.docker.com/r/gcrcontainer/metadata/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-1.14.0-notebook-gpu:v0.7.0](https://hub.docker.com/r/gcrcontainer/tensorflow-1.14.0-notebook-gpu/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-1.9.0-notebook-cpu:v0.3.0](https://hub.docker.com/r/gcrcontainer/tensorflow-1.9.0-notebook-cpu/tags)
+- [gcr.io/kubeflow-images-public/kaggle-notebook:v20180629](https://hub.docker.com/r/gcrcontainer/kaggle-notebook/tags)
 ### 2019-09-09 04:05:54 Update(num: 9):
 
 - [gcr.io/kubeflow-images-public/test-app:0921](https://hub.docker.com/r/gcrcontainer/test-app/tags)
