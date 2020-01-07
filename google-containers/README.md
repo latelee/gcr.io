@@ -1,3 +1,6 @@
+### 2020-01-08 04:27:18 Update(num: 1):
+
+- [gcr.io/google-containers/kube-cross:v1.13.5-1](https://hub.docker.com/r/gcrcontainer/kube-cross/tags)
 ### 2019-12-21 04:16:23 Update(num: 3):
 
 - [gcr.io/google-containers/kube-state-metrics-amd64:v1.9.0](https://hub.docker.com/r/gcrcontainer/kube-state-metrics-amd64/tags)
