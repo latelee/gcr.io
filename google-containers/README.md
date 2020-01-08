@@ -1,3 +1,6 @@
+### 2020-01-09 04:26:01 Update(num: 1):
+
+- [gcr.io/google-containers/git-sync:v3.1.4](https://hub.docker.com/r/gcrcontainer/git-sync/tags)
 ### 2020-01-08 04:27:18 Update(num: 1):
 
 - [gcr.io/google-containers/kube-cross:v1.13.5-1](https://hub.docker.com/r/gcrcontainer/kube-cross/tags)
