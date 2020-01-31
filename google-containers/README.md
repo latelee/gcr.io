@@ -1,3 +1,6 @@
+### 2020-02-01 04:36:46 Update(num: 1):
+
+- [gcr.io/google-containers/git-sync:v3.1.5](https://hub.docker.com/r/gcrcontainer/git-sync/tags)
 ### 2020-01-31 04:35:51 Update(num: 1):
 
 - [gcr.io/google-containers/managed-certificate-controller:v0.4.0](https://hub.docker.com/r/gcrcontainer/managed-certificate-controller/tags)
