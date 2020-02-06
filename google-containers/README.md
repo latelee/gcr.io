@@ -1,3 +1,6 @@
+### 2020-02-07 04:40:26 Update(num: 1):
+
+- [gcr.io/google-containers/custom-metrics-stackdriver-adapter:v0.10.1](https://hub.docker.com/r/gcrcontainer/custom-metrics-stackdriver-adapter/tags)
 ### 2020-02-01 04:36:46 Update(num: 1):
 
 - [gcr.io/google-containers/git-sync:v3.1.5](https://hub.docker.com/r/gcrcontainer/git-sync/tags)

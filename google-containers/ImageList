@@ -517,6 +517,7 @@
     "custom-metrics-stackdriver-adapter:staging",
     "custom-metrics-stackdriver-adapter:v0.1.0",
     "custom-metrics-stackdriver-adapter:v0.10.0",
+    "custom-metrics-stackdriver-adapter:v0.10.1",
     "custom-metrics-stackdriver-adapter:v0.2.0",
     "custom-metrics-stackdriver-adapter:v0.3.0",
     "custom-metrics-stackdriver-adapter:v0.4.0",
