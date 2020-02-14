@@ -1,3 +1,8 @@
+### 2020-02-15 04:44:15 Update(num: 3):
+
+- [gcr.io/google-containers/pause:3.2](https://hub.docker.com/r/gcrcontainer/pause/tags)
+- [gcr.io/google-containers/pause-amd64:3.2](https://hub.docker.com/r/gcrcontainer/pause-amd64/tags)
+- [gcr.io/google-containers/custom-metrics-stackdriver-adapter:v0.10.2](https://hub.docker.com/r/gcrcontainer/custom-metrics-stackdriver-adapter/tags)
 ### 2020-02-14 04:44:00 Update(num: 4):
 
 - [gcr.io/google-containers/kubelet-to-gcm:1.3.1](https://hub.docker.com/r/gcrcontainer/kubelet-to-gcm/tags)
