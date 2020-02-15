@@ -1,3 +1,6 @@
+### 2020-02-16 04:45:11 Update(num: 1):
+
+- [gcr.io/google-containers/coredns:1.6.7](https://hub.docker.com/r/gcrcontainer/coredns/tags)
 ### 2020-02-15 04:44:15 Update(num: 3):
 
 - [gcr.io/google-containers/pause:3.2](https://hub.docker.com/r/gcrcontainer/pause/tags)
