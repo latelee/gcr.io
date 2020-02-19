@@ -1,3 +1,7 @@
+### 2020-02-20 04:47:33 Update(num: 2):
+
+- [gcr.io/google-containers/debian-base:v1.0.1](https://hub.docker.com/r/gcrcontainer/debian-base/tags)
+- [gcr.io/google-containers/debian-base-amd64:v1.0.1](https://hub.docker.com/r/gcrcontainer/debian-base-amd64/tags)
 ### 2020-02-19 04:47:13 Update(num: 8):
 
 - [gcr.io/google-containers/k8s-dns-sidecar:1.15.9](https://hub.docker.com/r/gcrcontainer/k8s-dns-sidecar/tags)
