@@ -1,3 +1,8 @@
+### 2020-02-25 04:50:47 Update(num: 3):
+
+- [gcr.io/google-containers/kube-state-metrics:v1.9.5](https://hub.docker.com/r/gcrcontainer/kube-state-metrics/tags)
+- [gcr.io/google-containers/ingress-gce-glbc-amd64:v1.8.2](https://hub.docker.com/r/gcrcontainer/ingress-gce-glbc-amd64/tags)
+- [gcr.io/google-containers/kube-state-metrics-amd64:v1.9.5](https://hub.docker.com/r/gcrcontainer/kube-state-metrics-amd64/tags)
 ### 2020-02-20 04:47:33 Update(num: 2):
 
 - [gcr.io/google-containers/debian-base:v1.0.1](https://hub.docker.com/r/gcrcontainer/debian-base/tags)
