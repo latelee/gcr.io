@@ -1,3 +1,13 @@
+### 2020-03-05 04:55:29 Update(num: 8):
+
+- [gcr.io/google-containers/addon-resizer-amd64:2.3](https://hub.docker.com/r/gcrcontainer/addon-resizer-amd64/tags)
+- [gcr.io/google-containers/vpa-admission-controller:0.7.0](https://hub.docker.com/r/gcrcontainer/vpa-admission-controller/tags)
+- [gcr.io/google-containers/kube-dns-perf-client-amd64:2.0](https://hub.docker.com/r/gcrcontainer/kube-dns-perf-client-amd64/tags)
+- [gcr.io/google-containers/vpa-recommender:0.7.0](https://hub.docker.com/r/gcrcontainer/vpa-recommender/tags)
+- [gcr.io/google-containers/vpa-updater:0.7.0](https://hub.docker.com/r/gcrcontainer/vpa-updater/tags)
+- [gcr.io/google-containers/prometheus-to-sd:v0.9.2](https://hub.docker.com/r/gcrcontainer/prometheus-to-sd/tags)
+- [gcr.io/google-containers/debian-iptables:v11.0.3](https://hub.docker.com/r/gcrcontainer/debian-iptables/tags)
+- [gcr.io/google-containers/debian-iptables-amd64:v11.0.3](https://hub.docker.com/r/gcrcontainer/debian-iptables-amd64/tags)
 ### 2020-03-03 04:54:45 Update(num: 2):
 
 - [gcr.io/google-containers/prometheus-to-sd:v0.9.1](https://hub.docker.com/r/gcrcontainer/prometheus-to-sd/tags)
