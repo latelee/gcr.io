@@ -1,3 +1,13 @@
+### 2020-03-06 04:56:27 Update(num: 8):
+
+- [gcr.io/google-containers/k8s-dns-kube-dns:1.15.10](https://hub.docker.com/r/gcrcontainer/k8s-dns-kube-dns/tags)
+- [gcr.io/google-containers/k8s-dns-sidecar:1.15.10](https://hub.docker.com/r/gcrcontainer/k8s-dns-sidecar/tags)
+- [gcr.io/google-containers/k8s-dns-kube-dns-amd64:1.15.10](https://hub.docker.com/r/gcrcontainer/k8s-dns-kube-dns-amd64/tags)
+- [gcr.io/google-containers/k8s-dns-sidecar-amd64:1.15.10](https://hub.docker.com/r/gcrcontainer/k8s-dns-sidecar-amd64/tags)
+- [gcr.io/google-containers/k8s-dns-node-cache:1.15.10](https://hub.docker.com/r/gcrcontainer/k8s-dns-node-cache/tags)
+- [gcr.io/google-containers/k8s-dns-dnsmasq-nanny-amd64:1.15.10](https://hub.docker.com/r/gcrcontainer/k8s-dns-dnsmasq-nanny-amd64/tags)
+- [gcr.io/google-containers/k8s-dns-dnsmasq-nanny:1.15.10](https://hub.docker.com/r/gcrcontainer/k8s-dns-dnsmasq-nanny/tags)
+- [gcr.io/google-containers/k8s-dns-node-cache-amd64:1.15.10](https://hub.docker.com/r/gcrcontainer/k8s-dns-node-cache-amd64/tags)
 ### 2020-03-05 04:55:29 Update(num: 8):
 
 - [gcr.io/google-containers/addon-resizer-amd64:2.3](https://hub.docker.com/r/gcrcontainer/addon-resizer-amd64/tags)
