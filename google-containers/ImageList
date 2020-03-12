@@ -370,6 +370,7 @@
     "cluster-autoscaler:v1.16.4",
     "cluster-autoscaler:v1.17.0",
     "cluster-autoscaler:v1.17.1",
+    "cluster-autoscaler:v1.18.0",
     "cluster-autoscaler:v1.2.0",
     "cluster-autoscaler:v1.2.1",
     "cluster-autoscaler:v1.2.2",
