@@ -1,3 +1,7 @@
+### 2020-03-19 05:04:39 Update(num: 2):
+
+- [gcr.io/google-containers/managed-certificate-controller:v0.4.2](https://hub.docker.com/r/gcrcontainer/managed-certificate-controller/tags)
+- [gcr.io/google-containers/ingress-gce-glbc-amd64:v1.9.0](https://hub.docker.com/r/gcrcontainer/ingress-gce-glbc-amd64/tags)
 ### 2020-03-17 05:02:28 Update(num: 1):
 
 - [gcr.io/google-containers/managed-certificate-controller:v0.4.1](https://hub.docker.com/r/gcrcontainer/managed-certificate-controller/tags)
