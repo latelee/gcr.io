@@ -547,6 +547,7 @@
     "cpvpa-amd64:v0.7.0",
     "cpvpa-amd64:v0.7.1",
     "cpvpa-amd64:v0.8.1",
+    "cpvpa-amd64:v0.8.2",
     "cuda-vector-add:v0.1",
     "custom-metrics-stackdriver-adapter:staging",
     "custom-metrics-stackdriver-adapter:v0.1.0",

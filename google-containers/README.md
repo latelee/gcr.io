@@ -1,3 +1,6 @@
+### 2020-04-29 05:30:18 Update(num: 1):
+
+- [gcr.io/google-containers/cpvpa-amd64:v0.8.2](https://hub.docker.com/r/gcrcontainer/cpvpa-amd64/tags)
 ### 2020-04-18 05:30:48 Update(num: 36):
 
 - [gcr.io/google-containers/kube-scheduler-amd64:v1.17.5](https://hub.docker.com/r/gcrcontainer/kube-scheduler-amd64/tags)
