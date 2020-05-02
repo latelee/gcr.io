@@ -1,3 +1,6 @@
+### 2020-05-03 05:31:55 Update(num: 1):
+
+- [gcr.io/google-containers/git-sync:v3.1.6](https://hub.docker.com/r/gcrcontainer/git-sync/tags)
 ### 2020-04-29 05:30:18 Update(num: 1):
 
 - [gcr.io/google-containers/cpvpa-amd64:v0.8.2](https://hub.docker.com/r/gcrcontainer/cpvpa-amd64/tags)
