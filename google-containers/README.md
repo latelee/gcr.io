@@ -1,3 +1,7 @@
+### 2020-05-20 05:40:05 Update(num: 2):
+
+- [gcr.io/google-containers/kube-addon-manager:v9.1.0](https://hub.docker.com/r/gcrcontainer/kube-addon-manager/tags)
+- [gcr.io/google-containers/kube-addon-manager-amd64:v9.1.0](https://hub.docker.com/r/gcrcontainer/kube-addon-manager-amd64/tags)
 ### 2020-05-12 05:37:37 Update(num: 8):
 
 - [gcr.io/google-containers/k8s-dns-kube-dns-amd64:1.15.13](https://hub.docker.com/r/gcrcontainer/k8s-dns-kube-dns-amd64/tags)
