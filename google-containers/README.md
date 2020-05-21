@@ -1,3 +1,6 @@
+### 2020-05-22 05:41:24 Update(num: 1):
+
+- [gcr.io/google-containers/cluster-proportional-autoscaler-amd64:1.8.0](https://hub.docker.com/r/gcrcontainer/cluster-proportional-autoscaler-amd64/tags)
 ### 2020-05-21 05:45:06 Update(num: 38):
 
 - [gcr.io/google-containers/kube-scheduler:v1.18.3](https://hub.docker.com/r/gcrcontainer/kube-scheduler/tags)
