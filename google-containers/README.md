@@ -1,3 +1,7 @@
+### 2020-05-30 05:44:38 Update(num: 2):
+
+- [gcr.io/google-containers/cpvpa-amd64:v0.8.3](https://hub.docker.com/r/gcrcontainer/cpvpa-amd64/tags)
+- [gcr.io/google-containers/node-problem-detector:v0.8.2](https://hub.docker.com/r/gcrcontainer/node-problem-detector/tags)
 ### 2020-05-29 05:44:01 Update(num: 1):
 
 - [gcr.io/google-containers/addon-resizer:1.8.9](https://hub.docker.com/r/gcrcontainer/addon-resizer/tags)
