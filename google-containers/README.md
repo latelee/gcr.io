@@ -1,3 +1,7 @@
+### 2020-06-05 05:48:27 Update(num: 2):
+
+- [gcr.io/google-containers/addon-resizer:1.8.10](https://hub.docker.com/r/gcrcontainer/addon-resizer/tags)
+- [gcr.io/google-containers/toolbox:20200603-00](https://hub.docker.com/r/gcrcontainer/toolbox/tags)
 ### 2020-05-30 05:44:38 Update(num: 2):
 
 - [gcr.io/google-containers/cpvpa-amd64:v0.8.3](https://hub.docker.com/r/gcrcontainer/cpvpa-amd64/tags)
