@@ -418,6 +418,7 @@
     "cluster-proportional-autoscaler-amd64:1.7.0",
     "cluster-proportional-autoscaler-amd64:1.7.1",
     "cluster-proportional-autoscaler-amd64:1.8.0",
+    "cluster-proportional-autoscaler-amd64:1.8.1",
     "clusterapi-tester:1.0",
     "conformance-amd64:v1.13.0",
     "conformance-amd64:v1.13.1",

@@ -1,3 +1,6 @@
+### 2020-06-13 05:52:01 Update(num: 1):
+
+- [gcr.io/google-containers/cluster-proportional-autoscaler-amd64:1.8.1](https://hub.docker.com/r/gcrcontainer/cluster-proportional-autoscaler-amd64/tags)
 ### 2020-06-05 05:48:27 Update(num: 2):
 
 - [gcr.io/google-containers/addon-resizer:1.8.10](https://hub.docker.com/r/gcrcontainer/addon-resizer/tags)
