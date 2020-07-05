@@ -1,3 +1,15 @@
+### 2020-07-06 06:02:52 Update(num: 10):
+
+- [gcr.io/kubeflow-images-public/xgboost-operator:8a87df2](https://hub.docker.com/r/gcrcontainer/xgboost-operator/tags)
+- [gcr.io/kubeflow-images-public/xgboost-operator:2a793be](https://hub.docker.com/r/gcrcontainer/xgboost-operator/tags)
+- [gcr.io/kubeflow-images-public/xgboost-operator:8e29825](https://hub.docker.com/r/gcrcontainer/xgboost-operator/tags)
+- [gcr.io/kubeflow-images-public/xgboost-operator:1a49d52](https://hub.docker.com/r/gcrcontainer/xgboost-operator/tags)
+- [gcr.io/kubeflow-images-public/xgboost-operator:78f8cf5](https://hub.docker.com/r/gcrcontainer/xgboost-operator/tags)
+- [gcr.io/kubeflow-images-public/xgboost-operator:69fe229](https://hub.docker.com/r/gcrcontainer/xgboost-operator/tags)
+- [gcr.io/kubeflow-images-public/xgboost-operator:4459121](https://hub.docker.com/r/gcrcontainer/xgboost-operator/tags)
+- [gcr.io/kubeflow-images-public/xgboost-operator:298bb47](https://hub.docker.com/r/gcrcontainer/xgboost-operator/tags)
+- [gcr.io/kubeflow-images-public/xgboost-operator:0985fde](https://hub.docker.com/r/gcrcontainer/xgboost-operator/tags)
+- [gcr.io/kubeflow-images-public/xgboost-operator:337c1d5](https://hub.docker.com/r/gcrcontainer/xgboost-operator/tags)
 ### 2019-12-30 05:06:04 Update(num: 10):
 
 - [gcr.io/kubeflow-images-public/pytorch-operator:v0.7.0](https://hub.docker.com/r/gcrcontainer/pytorch-operator/tags)

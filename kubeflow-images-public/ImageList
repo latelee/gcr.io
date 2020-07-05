@@ -170,5 +170,15 @@
     "test-app:092102",
     "test_app:0906",
     "tf_operator:v0.2.0",
-    "ubuntu:18.04"
+    "ubuntu:18.04",
+    "xgboost-operator:0985fde",
+    "xgboost-operator:1a49d52",
+    "xgboost-operator:298bb47",
+    "xgboost-operator:2a793be",
+    "xgboost-operator:337c1d5",
+    "xgboost-operator:4459121",
+    "xgboost-operator:69fe229",
+    "xgboost-operator:78f8cf5",
+    "xgboost-operator:8a87df2",
+    "xgboost-operator:8e29825"
 ]
