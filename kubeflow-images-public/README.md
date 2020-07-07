@@ -1,3 +1,15 @@
+### 2020-07-08 06:42:59 Update(num: 10):
+
+- [gcr.io/kubeflow-images-public/prctl:4008a58](https://hub.docker.com/r/gcrcontainer/prctl/tags)
+- [gcr.io/kubeflow-images-public/prctl:a1a488e](https://hub.docker.com/r/gcrcontainer/prctl/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-1.9.0-notebook-cpu:v0.4.0](https://hub.docker.com/r/gcrcontainer/tensorflow-1.9.0-notebook-cpu/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-1.14.0-notebook-cpu:v1.0.0](https://hub.docker.com/r/gcrcontainer/tensorflow-1.14.0-notebook-cpu/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-1.15.2-notebook-cpu:1.0.0](https://hub.docker.com/r/gcrcontainer/tensorflow-1.15.2-notebook-cpu/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-1.9.0-notebook-cpu:v0.5.0](https://hub.docker.com/r/gcrcontainer/tensorflow-1.9.0-notebook-cpu/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-1.15.0-notebook-cpu:v1.0.0](https://hub.docker.com/r/gcrcontainer/tensorflow-1.15.0-notebook-cpu/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-1.14.0-notebook-gpu:v1.0.0](https://hub.docker.com/r/gcrcontainer/tensorflow-1.14.0-notebook-gpu/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-1.15.2-notebook-gpu:1.0.0](https://hub.docker.com/r/gcrcontainer/tensorflow-1.15.2-notebook-gpu/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-1.15.0-notebook-gpu:v1.0.0](https://hub.docker.com/r/gcrcontainer/tensorflow-1.15.0-notebook-gpu/tags)
 ### 2020-07-06 06:02:52 Update(num: 10):
 
 - [gcr.io/kubeflow-images-public/xgboost-operator:8a87df2](https://hub.docker.com/r/gcrcontainer/xgboost-operator/tags)
