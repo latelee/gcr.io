@@ -1,3 +1,6 @@
+### 2020-07-10 06:03:44 Update(num: 1):
+
+- [gcr.io/google-containers/addon-resizer:1.8.11](https://hub.docker.com/r/gcrcontainer/addon-resizer/tags)
 ### 2020-07-08 06:03:50 Update(num: 4):
 
 - [gcr.io/google-containers/etcd:3.4.9](https://hub.docker.com/r/gcrcontainer/etcd/tags)
