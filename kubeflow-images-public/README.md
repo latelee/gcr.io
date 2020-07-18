@@ -1,3 +1,15 @@
+### 2020-07-19 06:32:17 Update(num: 10):
+
+- [gcr.io/kubeflow-images-public/xgboost-operator:ab64f65](https://hub.docker.com/r/gcrcontainer/xgboost-operator/tags)
+- [gcr.io/kubeflow-images-public/xgboost-operator:9e93f6f](https://hub.docker.com/r/gcrcontainer/xgboost-operator/tags)
+- [gcr.io/kubeflow-images-public/xgboost-operator:9bd9a31](https://hub.docker.com/r/gcrcontainer/xgboost-operator/tags)
+- [gcr.io/kubeflow-images-public/tf-model-server-request-logger:v20180723](https://hub.docker.com/r/gcrcontainer/tf-model-server-request-logger/tags)
+- [gcr.io/kubeflow-images-public/tf-model-server-request-logger:v20180717](https://hub.docker.com/r/gcrcontainer/tf-model-server-request-logger/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v0.3.1](https://hub.docker.com/r/gcrcontainer/tensorflow-1.6.0-notebook-cpu/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v0.2.0](https://hub.docker.com/r/gcrcontainer/tensorflow-1.6.0-notebook-cpu/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v0.5.0](https://hub.docker.com/r/gcrcontainer/tensorflow-1.6.0-notebook-cpu/tags)
+- [gcr.io/kubeflow-images-public/xgboost-fairing-example:v1](https://hub.docker.com/r/gcrcontainer/xgboost-fairing-example/tags)
+- [gcr.io/kubeflow-images-public/xgboost-fairing-example-base:v-20190612](https://hub.docker.com/r/gcrcontainer/xgboost-fairing-example-base/tags)
 ### 2020-07-08 06:42:59 Update(num: 10):
 
 - [gcr.io/kubeflow-images-public/prctl:4008a58](https://hub.docker.com/r/gcrcontainer/prctl/tags)
