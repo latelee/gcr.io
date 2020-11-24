@@ -1659,6 +1659,7 @@
     "hyperkube:v1.9.7",
     "hyperkube:v1.9.8",
     "hyperkube:v1.9.9",
+    "ingress-gce-404-server-with-metrics-amd64:v1.10.11",
     "ingress-gce-404-server-with-metrics-amd64:v1.6.0",
     "ingress-gce-glbc-amd64:0.9.8",
     "ingress-gce-glbc-amd64:1.0.0",

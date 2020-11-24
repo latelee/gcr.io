@@ -1,3 +1,6 @@
+### 2020-11-24 08:29:40 Update(num: 1):
+
+- [gcr.io/google-containers/ingress-gce-404-server-with-metrics-amd64:v1.10.11](https://hub.docker.com/r/gcrcontainer/ingress-gce-404-server-with-metrics-amd64/tags)
 ### 2020-11-06 07:37:34 Update(num: 1):
 
 - [gcr.io/google-containers/toolbox:20201104-00](https://hub.docker.com/r/gcrcontainer/toolbox/tags)
