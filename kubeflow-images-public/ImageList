@@ -164,6 +164,9 @@
     "tensorflow-1.9.0-notebook-cpu:v0.4.0",
     "tensorflow-1.9.0-notebook-cpu:v0.5.0",
     "tensorflow-1.9.0-notebook-gpu:v0.3.0",
+    "tensorflow-2.1.0-notebook-cpu:1.0.0",
+    "tensorflow-2.1.0-notebook-gpu:1.0.0",
+    "tensorflow-notebook-gpu:20180319",
     "test-app:0806",
     "test-app:081401",
     "test-app:081402",
@@ -182,6 +185,7 @@
     "test-app:0921",
     "test-app:092102",
     "test_app:0906",
+    "tf-model-server-cpu:agwl-1.7",
     "tf-model-server-request-logger:v20180717",
     "tf-model-server-request-logger:v20180723",
     "tf_operator:v0.2.0",
@@ -200,5 +204,11 @@
     "xgboost-operator:8e29825",
     "xgboost-operator:9bd9a31",
     "xgboost-operator:9e93f6f",
-    "xgboost-operator:ab64f65"
+    "xgboost-operator:ab64f65",
+    "xgboost-operator:bd46a74",
+    "xgboost-operator:c4bac2d",
+    "xgboost-operator:ce8bc6a",
+    "xgboost-operator:d1b02b3",
+    "xgboost-operator:e3020bc",
+    "xgboost-operator:v0.1.0"
 ]
