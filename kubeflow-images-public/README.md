@@ -1,3 +1,15 @@
+### 2021-05-08 09:14:46 Update(num: 10):
+
+- [gcr.io/kubeflow-images-public/profile-controller:v1.3.0-gcp](https://hub.docker.com/r/gcrcontainer/profile-controller/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v0.2.1](https://hub.docker.com/r/gcrcontainer/tensorflow-1.4.1-notebook-cpu/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v0.2.0](https://hub.docker.com/r/gcrcontainer/tensorflow-1.4.1-notebook-cpu/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v0.3.1](https://hub.docker.com/r/gcrcontainer/tensorflow-1.4.1-notebook-cpu/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v0.3.0](https://hub.docker.com/r/gcrcontainer/tensorflow-1.4.1-notebook-cpu/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v0.4.0](https://hub.docker.com/r/gcrcontainer/tensorflow-1.4.1-notebook-cpu/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-2.0.0a0-notebook-gpu:v0.7.0](https://hub.docker.com/r/gcrcontainer/tensorflow-2.0.0a0-notebook-gpu/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-2.0.0a0-notebook-gpu:2a92ca1](https://hub.docker.com/r/gcrcontainer/tensorflow-2.0.0a0-notebook-gpu/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-2.0.0a0-notebook-gpu:v1.0.0](https://hub.docker.com/r/gcrcontainer/tensorflow-2.0.0a0-notebook-gpu/tags)
+- [gcr.io/kubeflow-images-public/tensorflow-2.0.0a0-notebook-gpu:v0.5.0](https://hub.docker.com/r/gcrcontainer/tensorflow-2.0.0a0-notebook-gpu/tags)
 ### 2021-04-17 08:50:58 Update(num: 10):
 
 - [gcr.io/kubeflow-images-public/xgboost-operator:bd46a74](https://hub.docker.com/r/gcrcontainer/xgboost-operator/tags)
